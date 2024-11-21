@@ -39,7 +39,7 @@ def process(input_path, output_path):
     ]
     df = list_columns_to_dropna(df, columns_to_check)
 
-    df.to_csv('output.csv')
+    df.to_csv(output_path)
 
     # Prepare data
     features_to_drop = ['Next_10_Days_Volatility', 'Low', 'High', 'Close', 'Open', 'Volume', 'MACD_h','MACD_sl','RSI14','SMA14','EMA14']
