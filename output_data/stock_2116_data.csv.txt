@@ -1,1466 +1,1467 @@
-Prediction: 2.57,    Actual Value: 2.45
-Prediction: 2.68,    Actual Value: 2.87
-Prediction: 2.68,    Actual Value: 2.93
-Prediction: 2.70,    Actual Value: 2.99
-Prediction: 2.70,    Actual Value: 3.06
-Prediction: 2.45,    Actual Value: 3.06
-Prediction: 2.77,    Actual Value: 3.12
-Prediction: 2.87,    Actual Value: 3.11
-Prediction: 2.92,    Actual Value: 3.01
-Prediction: 2.89,    Actual Value: 2.99
-Prediction: 2.60,    Actual Value: 2.39
-Prediction: 2.88,    Actual Value: 2.05
-Prediction: 2.66,    Actual Value: 2.13
-Prediction: 2.82,    Actual Value: 2.09
-Prediction: 2.76,    Actual Value: 3.01
-Prediction: 2.92,    Actual Value: 3.08
-Prediction: 2.79,    Actual Value: 2.97
-Prediction: 3.13,    Actual Value: 3.14
-Prediction: 3.42,    Actual Value: 3.15
-Prediction: 3.70,    Actual Value: 3.26
-Prediction: 3.79,    Actual Value: 3.17
-Prediction: 3.76,    Actual Value: 3.15
-Prediction: 3.24,    Actual Value: 3.12
-Prediction: 3.92,    Actual Value: 4.59
-Prediction: 3.83,    Actual Value: 4.03
-Prediction: 4.18,    Actual Value: 4.30
-Prediction: 4.95,    Actual Value: 4.80
-Prediction: 5.34,    Actual Value: 4.87
-Prediction: 5.75,    Actual Value: 4.88
-Prediction: 5.46,    Actual Value: 5.24
-Prediction: 5.44,    Actual Value: 5.21
-Prediction: 5.58,    Actual Value: 6.29
-Prediction: 5.94,    Actual Value: 6.26
-Prediction: 5.43,    Actual Value: 5.41
-Prediction: 5.32,    Actual Value: 5.38
-Prediction: 4.96,    Actual Value: 5.63
-Prediction: 4.72,    Actual Value: 3.64
-Prediction: 4.32,    Actual Value: 3.60
-Prediction: 4.49,    Actual Value: 4.57
-Prediction: 4.54,    Actual Value: 4.55
-Prediction: 4.52,    Actual Value: 5.33
-Prediction: 4.73,    Actual Value: 4.80
-Prediction: 4.74,    Actual Value: 4.87
-Prediction: 4.73,    Actual Value: 4.90
-Prediction: 4.76,    Actual Value: 5.16
-Prediction: 5.03,    Actual Value: 4.42
-Prediction: 4.57,    Actual Value: 4.50
-Prediction: 4.46,    Actual Value: 4.50
-Prediction: 4.50,    Actual Value: 4.34
-Prediction: 4.46,    Actual Value: 4.41
-Prediction: 4.28,    Actual Value: 4.12
-Prediction: 3.97,    Actual Value: 4.12
-Prediction: 3.91,    Actual Value: 3.97
-Prediction: 3.71,    Actual Value: 3.88
-Prediction: 3.15,    Actual Value: 3.68
-Prediction: 2.79,    Actual Value: 2.59
-Prediction: 3.12,    Actual Value: 2.38
-Prediction: 3.00,    Actual Value: 2.42
-Prediction: 2.73,    Actual Value: 2.15
-Prediction: 2.29,    Actual Value: 2.35
-Prediction: 2.49,    Actual Value: 2.59
-Prediction: 2.66,    Actual Value: 2.40
-Prediction: 2.70,    Actual Value: 2.41
-Prediction: 2.49,    Actual Value: 2.60
-Prediction: 2.52,    Actual Value: 2.60
-Prediction: 2.70,    Actual Value: 2.26
-Prediction: 2.96,    Actual Value: 2.33
-Prediction: 3.53,    Actual Value: 3.67
-Prediction: 3.58,    Actual Value: 3.63
-Prediction: 3.53,    Actual Value: 3.52
-Prediction: 3.39,    Actual Value: 3.41
-Prediction: 3.15,    Actual Value: 3.20
-Prediction: 3.04,    Actual Value: 3.18
-Prediction: 3.55,    Actual Value: 3.69
-Prediction: 3.51,    Actual Value: 3.78
-Prediction: 3.23,    Actual Value: 3.83
-Prediction: 3.35,    Actual Value: 3.59
-Prediction: 3.28,    Actual Value: 2.90
-Prediction: 3.26,    Actual Value: 3.12
-Prediction: 3.04,    Actual Value: 3.25
-Prediction: 2.94,    Actual Value: 3.18
-Prediction: 2.87,    Actual Value: 2.90
-Prediction: 2.94,    Actual Value: 2.91
-Prediction: 2.30,    Actual Value: 1.98
-Prediction: 2.32,    Actual Value: 2.27
-Prediction: 2.65,    Actual Value: 2.34
-Prediction: 2.92,    Actual Value: 3.27
-Prediction: 2.79,    Actual Value: 3.27
-Prediction: 2.60,    Actual Value: 3.07
-Prediction: 2.98,    Actual Value: 2.98
-Prediction: 3.23,    Actual Value: 3.11
-Prediction: 3.25,    Actual Value: 3.09
-Prediction: 3.30,    Actual Value: 3.22
-Prediction: 3.34,    Actual Value: 3.15
-Prediction: 3.42,    Actual Value: 3.66
-Prediction: 4.07,    Actual Value: 4.99
-Prediction: 4.42,    Actual Value: 4.62
-Prediction: 4.55,    Actual Value: 4.62
-Prediction: 4.84,    Actual Value: 4.63
-Prediction: 4.91,    Actual Value: 4.64
-Prediction: 4.87,    Actual Value: 4.59
-Prediction: 4.55,    Actual Value: 4.61
-Prediction: 4.33,    Actual Value: 4.50
-Prediction: 3.86,    Actual Value: 4.44
-Prediction: 3.54,    Actual Value: 3.40
-Prediction: 2.71,    Actual Value: 1.45
-Prediction: 2.30,    Actual Value: 1.36
-Prediction: 1.95,    Actual Value: 1.97
-Prediction: 2.02,    Actual Value: 2.30
-Prediction: 2.20,    Actual Value: 2.41
-Prediction: 2.18,    Actual Value: 2.42
-Prediction: 2.39,    Actual Value: 2.40
-Prediction: 2.69,    Actual Value: 2.72
-Prediction: 3.15,    Actual Value: 2.70
-Prediction: 3.13,    Actual Value: 2.80
-Prediction: 3.45,    Actual Value: 2.88
-Prediction: 3.51,    Actual Value: 2.84
-Prediction: 3.49,    Actual Value: 2.72
-Prediction: 3.30,    Actual Value: 2.56
-Prediction: 3.59,    Actual Value: 3.13
-Prediction: 3.82,    Actual Value: 4.17
-Prediction: 4.17,    Actual Value: 4.32
-Prediction: 4.86,    Actual Value: 5.32
-Prediction: 4.82,    Actual Value: 5.32
-Prediction: 5.22,    Actual Value: 5.22
-Prediction: 5.69,    Actual Value: 5.65
-Prediction: 5.52,    Actual Value: 5.72
-Prediction: 5.48,    Actual Value: 6.00
-Prediction: 5.50,    Actual Value: 6.04
-Prediction: 5.54,    Actual Value: 5.88
-Prediction: 5.47,    Actual Value: 5.18
-Prediction: 5.32,    Actual Value: 5.55
-Prediction: 5.35,    Actual Value: 5.10
-Prediction: 5.52,    Actual Value: 5.25
-Prediction: 5.20,    Actual Value: 5.20
-Prediction: 4.82,    Actual Value: 4.64
-Prediction: 4.71,    Actual Value: 4.29
-Prediction: 4.35,    Actual Value: 4.16
-Prediction: 4.13,    Actual Value: 4.08
-Prediction: 4.07,    Actual Value: 3.53
-Prediction: 4.20,    Actual Value: 3.50
-Prediction: 4.31,    Actual Value: 4.07
-Prediction: 3.83,    Actual Value: 3.83
-Prediction: 3.82,    Actual Value: 3.85
-Prediction: 4.01,    Actual Value: 4.26
-Prediction: 3.97,    Actual Value: 4.24
-Prediction: 3.89,    Actual Value: 4.18
-Prediction: 4.06,    Actual Value: 4.04
-Prediction: 3.99,    Actual Value: 4.00
-Prediction: 3.81,    Actual Value: 3.92
-Prediction: 3.79,    Actual Value: 3.98
-Prediction: 3.23,    Actual Value: 2.85
-Prediction: 3.13,    Actual Value: 2.57
-Prediction: 2.97,    Actual Value: 2.58
-Prediction: 2.34,    Actual Value: 1.63
-Prediction: 1.85,    Actual Value: 1.49
-Prediction: 1.56,    Actual Value: 1.83
-Prediction: 1.47,    Actual Value: 1.87
-Prediction: 2.04,    Actual Value: 1.87
-Prediction: 2.33,    Actual Value: 2.09
-Prediction: 2.26,    Actual Value: 2.14
-Prediction: 2.10,    Actual Value: 2.06
-Prediction: 2.15,    Actual Value: 2.06
-Prediction: 1.87,    Actual Value: 1.97
-Prediction: 2.17,    Actual Value: 1.67
-Prediction: 2.38,    Actual Value: 2.10
-Prediction: 2.43,    Actual Value: 1.73
-Prediction: 2.35,    Actual Value: 1.79
-Prediction: 2.02,    Actual Value: 2.48
-Prediction: 2.45,    Actual Value: 2.29
-Prediction: 2.51,    Actual Value: 2.39
-Prediction: 2.56,    Actual Value: 2.39
-Prediction: 3.13,    Actual Value: 2.40
-Prediction: 3.06,    Actual Value: 2.46
-Prediction: 2.90,    Actual Value: 2.46
-Prediction: 2.89,    Actual Value: 2.25
-Prediction: 2.83,    Actual Value: 3.55
-Prediction: 3.03,    Actual Value: 3.41
-Prediction: 3.30,    Actual Value: 3.10
-Prediction: 3.38,    Actual Value: 3.03
-Prediction: 3.80,    Actual Value: 3.83
-Prediction: 4.65,    Actual Value: 5.38
-Prediction: 5.26,    Actual Value: 5.43
-Prediction: 5.75,    Actual Value: 5.35
-Prediction: 5.96,    Actual Value: 5.36
-Prediction: 5.95,    Actual Value: 6.37
-Prediction: 6.13,    Actual Value: 5.35
-Prediction: 5.87,    Actual Value: 5.65
-Prediction: 5.68,    Actual Value: 5.54
-Prediction: 6.27,    Actual Value: 5.37
-Prediction: 5.95,    Actual Value: 6.55
-Prediction: 5.67,    Actual Value: 5.83
-Prediction: 5.45,    Actual Value: 5.72
-Prediction: 5.16,    Actual Value: 5.76
-Prediction: 5.21,    Actual Value: 5.74
-Prediction: 4.89,    Actual Value: 5.00
-Prediction: 4.19,    Actual Value: 4.65
-Prediction: 3.91,    Actual Value: 4.50
-Prediction: 4.03,    Actual Value: 4.47
-Prediction: 3.76,    Actual Value: 4.44
-Prediction: 3.77,    Actual Value: 3.24
-Prediction: 3.70,    Actual Value: 3.27
-Prediction: 3.53,    Actual Value: 3.34
-Prediction: 3.39,    Actual Value: 3.29
-Prediction: 3.23,    Actual Value: 3.46
-Prediction: 3.00,    Actual Value: 3.04
-Prediction: 3.24,    Actual Value: 3.10
-Prediction: 3.56,    Actual Value: 3.54
-Prediction: 3.90,    Actual Value: 3.23
-Prediction: 3.69,    Actual Value: 3.11
-Prediction: 3.32,    Actual Value: 3.14
-Prediction: 3.52,    Actual Value: 3.21
-Prediction: 3.91,    Actual Value: 3.67
-Prediction: 3.93,    Actual Value: 3.68
-Prediction: 4.56,    Actual Value: 4.10
-Prediction: 5.02,    Actual Value: 5.02
-Prediction: 5.22,    Actual Value: 5.12
-Prediction: 5.07,    Actual Value: 4.84
-Prediction: 4.52,    Actual Value: 4.85
-Prediction: 4.66,    Actual Value: 4.78
-Prediction: 4.96,    Actual Value: 4.54
-Prediction: 5.25,    Actual Value: 4.59
-Prediction: 5.95,    Actual Value: 5.16
-Prediction: 6.08,    Actual Value: 5.43
-Prediction: 5.52,    Actual Value: 5.31
-Prediction: 5.36,    Actual Value: 5.11
-Prediction: 6.00,    Actual Value: 5.01
-Prediction: 6.02,    Actual Value: 5.35
-Prediction: 6.31,    Actual Value: 6.48
-Prediction: 6.34,    Actual Value: 6.46
-Prediction: 6.51,    Actual Value: 6.63
-Prediction: 6.62,    Actual Value: 6.73
-Prediction: 6.08,    Actual Value: 6.17
-Prediction: 6.60,    Actual Value: 6.38
-Prediction: 6.19,    Actual Value: 6.49
-Prediction: 5.10,    Actual Value: 5.78
-Prediction: 4.84,    Actual Value: 5.45
-Prediction: 4.89,    Actual Value: 5.26
-Prediction: 5.02,    Actual Value: 4.32
-Prediction: 4.87,    Actual Value: 4.30
-Prediction: 4.61,    Actual Value: 4.43
-Prediction: 4.59,    Actual Value: 5.32
-Prediction: 4.60,    Actual Value: 5.28
-Prediction: 4.11,    Actual Value: 4.53
-Prediction: 4.38,    Actual Value: 4.32
-Prediction: 4.92,    Actual Value: 4.45
-Prediction: 4.34,    Actual Value: 4.39
-Prediction: 4.25,    Actual Value: 3.92
-Prediction: 4.28,    Actual Value: 4.92
-Prediction: 4.22,    Actual Value: 4.88
-Prediction: 4.82,    Actual Value: 4.87
-Prediction: 4.49,    Actual Value: 4.48
-Prediction: 4.09,    Actual Value: 4.53
-Prediction: 4.52,    Actual Value: 4.48
-Prediction: 4.35,    Actual Value: 4.47
-Prediction: 3.82,    Actual Value: 4.49
-Prediction: 4.17,    Actual Value: 4.44
-Prediction: 4.33,    Actual Value: 5.08
-Prediction: 4.65,    Actual Value: 4.66
-Prediction: 5.07,    Actual Value: 4.69
-Prediction: 5.25,    Actual Value: 4.71
-Prediction: 4.80,    Actual Value: 4.61
-Prediction: 5.09,    Actual Value: 4.83
-Prediction: 4.65,    Actual Value: 5.11
-Prediction: 4.40,    Actual Value: 5.11
-Prediction: 4.41,    Actual Value: 5.07
-Prediction: 4.17,    Actual Value: 4.44
-Prediction: 4.06,    Actual Value: 3.46
-Prediction: 3.73,    Actual Value: 3.38
-Prediction: 3.58,    Actual Value: 3.36
-Prediction: 3.89,    Actual Value: 4.72
-Prediction: 4.50,    Actual Value: 5.06
-Prediction: 4.25,    Actual Value: 4.13
-Prediction: 4.43,    Actual Value: 4.12
-Prediction: 4.75,    Actual Value: 3.94
-Prediction: 4.61,    Actual Value: 4.83
-Prediction: 4.56,    Actual Value: 5.58
-Prediction: 5.29,    Actual Value: 6.20
-Prediction: 5.93,    Actual Value: 6.12
-Prediction: 6.75,    Actual Value: 5.99
-Prediction: 6.44,    Actual Value: 6.27
-Prediction: 5.74,    Actual Value: 5.77
-Prediction: 5.93,    Actual Value: 5.76
-Prediction: 6.42,    Actual Value: 6.38
-Prediction: 6.01,    Actual Value: 6.32
-Prediction: 5.89,    Actual Value: 6.02
-Prediction: 5.44,    Actual Value: 5.55
-Prediction: 4.97,    Actual Value: 4.85
-Prediction: 4.61,    Actual Value: 4.75
-Prediction: 4.41,    Actual Value: 4.77
-Prediction: 4.41,    Actual Value: 4.24
-Prediction: 3.94,    Actual Value: 3.98
-Prediction: 3.61,    Actual Value: 4.00
-Prediction: 3.05,    Actual Value: 2.47
-Prediction: 3.07,    Actual Value: 2.49
-Prediction: 3.02,    Actual Value: 2.57
-Prediction: 3.26,    Actual Value: 3.52
-Prediction: 3.43,    Actual Value: 3.12
-Prediction: 3.39,    Actual Value: 3.42
-Prediction: 3.25,    Actual Value: 3.37
-Prediction: 3.20,    Actual Value: 3.38
-Prediction: 3.30,    Actual Value: 3.31
-Prediction: 3.38,    Actual Value: 3.35
-Prediction: 3.44,    Actual Value: 3.30
-Prediction: 3.26,    Actual Value: 3.29
-Prediction: 2.95,    Actual Value: 3.37
-Prediction: 2.88,    Actual Value: 2.54
-Prediction: 3.16,    Actual Value: 3.21
-Prediction: 3.11,    Actual Value: 3.03
-Prediction: 2.98,    Actual Value: 2.78
-Prediction: 3.12,    Actual Value: 2.99
-Prediction: 2.87,    Actual Value: 2.96
-Prediction: 3.13,    Actual Value: 2.86
-Prediction: 4.18,    Actual Value: 4.06
-Prediction: 5.10,    Actual Value: 4.66
-Prediction: 5.06,    Actual Value: 4.66
-Prediction: 4.72,    Actual Value: 4.27
-Prediction: 4.17,    Actual Value: 4.37
-Prediction: 4.29,    Actual Value: 4.17
-Prediction: 4.87,    Actual Value: 4.73
-Prediction: 5.77,    Actual Value: 5.13
-Prediction: 6.65,    Actual Value: 6.43
-Prediction: 7.09,    Actual Value: 6.44
-Prediction: 5.58,    Actual Value: 5.95
-Prediction: 4.91,    Actual Value: 5.22
-Prediction: 5.37,    Actual Value: 5.53
-Prediction: 5.66,    Actual Value: 5.59
-Prediction: 5.98,    Actual Value: 5.57
-Prediction: 6.10,    Actual Value: 5.75
-Prediction: 5.27,    Actual Value: 4.91
-Prediction: 4.36,    Actual Value: 4.83
-Prediction: 3.45,    Actual Value: 3.46
-Prediction: 3.17,    Actual Value: 3.19
-Prediction: 3.13,    Actual Value: 3.29
-Prediction: 3.25,    Actual Value: 3.78
-Prediction: 2.69,    Actual Value: 3.27
-Prediction: 2.82,    Actual Value: 3.30
-Prediction: 2.65,    Actual Value: 3.30
-Prediction: 2.41,    Actual Value: 3.01
-Prediction: 2.88,    Actual Value: 2.80
-Prediction: 3.19,    Actual Value: 2.76
-Prediction: 4.55,    Actual Value: 3.14
-Prediction: 5.64,    Actual Value: 4.74
-Prediction: 5.62,    Actual Value: 4.69
-Prediction: 5.66,    Actual Value: 5.33
-Prediction: 5.47,    Actual Value: 5.38
-Prediction: 5.89,    Actual Value: 6.28
-Prediction: 6.34,    Actual Value: 6.25
-Prediction: 6.60,    Actual Value: 6.34
-Prediction: 6.70,    Actual Value: 6.31
-Prediction: 6.55,    Actual Value: 6.56
-Prediction: 5.49,    Actual Value: 6.21
-Prediction: 5.60,    Actual Value: 6.10
-Prediction: 5.60,    Actual Value: 5.99
-Prediction: 5.18,    Actual Value: 5.26
-Prediction: 4.75,    Actual Value: 5.15
-Prediction: 4.67,    Actual Value: 3.57
-Prediction: 4.42,    Actual Value: 4.00
-Prediction: 4.37,    Actual Value: 4.42
-Prediction: 4.67,    Actual Value: 4.42
-Prediction: 4.57,    Actual Value: 4.22
-Prediction: 4.11,    Actual Value: 4.31
-Prediction: 3.62,    Actual Value: 2.99
-Prediction: 3.86,    Actual Value: 3.77
-Prediction: 3.51,    Actual Value: 3.85
-Prediction: 3.87,    Actual Value: 4.02
-Prediction: 3.55,    Actual Value: 3.63
-Prediction: 3.38,    Actual Value: 3.44
-Prediction: 3.56,    Actual Value: 3.10
-Prediction: 3.68,    Actual Value: 3.14
-Prediction: 3.93,    Actual Value: 3.58
-Prediction: 4.06,    Actual Value: 3.66
-Prediction: 4.12,    Actual Value: 3.76
-Prediction: 3.74,    Actual Value: 3.94
-Prediction: 3.92,    Actual Value: 4.07
-Prediction: 3.75,    Actual Value: 3.73
-Prediction: 3.94,    Actual Value: 3.84
-Prediction: 4.50,    Actual Value: 3.80
-Prediction: 4.73,    Actual Value: 3.95
-Prediction: 4.92,    Actual Value: 5.60
-Prediction: 5.00,    Actual Value: 5.84
-Prediction: 5.07,    Actual Value: 5.97
-Prediction: 5.69,    Actual Value: 6.16
-Prediction: 5.93,    Actual Value: 6.28
-Prediction: 5.93,    Actual Value: 6.18
-Prediction: 5.97,    Actual Value: 6.11
-Prediction: 5.78,    Actual Value: 6.00
-Prediction: 5.52,    Actual Value: 5.88
-Prediction: 5.30,    Actual Value: 5.82
-Prediction: 5.28,    Actual Value: 4.70
-Prediction: 5.34,    Actual Value: 4.21
-Prediction: 4.88,    Actual Value: 4.23
-Prediction: 4.14,    Actual Value: 4.13
-Prediction: 3.35,    Actual Value: 2.88
-Prediction: 3.53,    Actual Value: 3.66
-Prediction: 3.35,    Actual Value: 3.74
-Prediction: 3.74,    Actual Value: 4.15
-Prediction: 4.13,    Actual Value: 4.70
-Prediction: 3.95,    Actual Value: 4.09
-Prediction: 3.94,    Actual Value: 4.02
-Prediction: 3.97,    Actual Value: 4.01
-Prediction: 3.68,    Actual Value: 4.03
-Prediction: 4.01,    Actual Value: 4.00
-Prediction: 4.30,    Actual Value: 3.87
-Prediction: 4.71,    Actual Value: 4.51
-Prediction: 4.95,    Actual Value: 4.32
-Prediction: 4.61,    Actual Value: 4.21
-Prediction: 3.96,    Actual Value: 3.73
-Prediction: 3.93,    Actual Value: 3.78
-Prediction: 3.84,    Actual Value: 3.72
-Prediction: 4.08,    Actual Value: 4.14
-Prediction: 4.30,    Actual Value: 4.28
-Prediction: 4.09,    Actual Value: 4.27
-Prediction: 3.96,    Actual Value: 4.23
-Prediction: 3.97,    Actual Value: 4.09
-Prediction: 4.21,    Actual Value: 3.78
-Prediction: 4.29,    Actual Value: 3.53
-Prediction: 4.55,    Actual Value: 4.49
-Prediction: 4.45,    Actual Value: 4.40
-Prediction: 4.53,    Actual Value: 4.47
-Prediction: 4.28,    Actual Value: 4.23
-Prediction: 4.34,    Actual Value: 4.19
-Prediction: 4.32,    Actual Value: 4.48
-Prediction: 4.17,    Actual Value: 4.57
-Prediction: 3.63,    Actual Value: 3.73
-Prediction: 3.59,    Actual Value: 3.80
-Prediction: 3.41,    Actual Value: 3.80
-Prediction: 3.07,    Actual Value: 3.09
-Prediction: 3.01,    Actual Value: 2.63
-Prediction: 3.02,    Actual Value: 3.03
-Prediction: 3.03,    Actual Value: 3.50
-Prediction: 3.24,    Actual Value: 3.57
-Prediction: 3.21,    Actual Value: 3.29
-Prediction: 3.32,    Actual Value: 3.40
-Prediction: 3.39,    Actual Value: 3.42
-Prediction: 3.36,    Actual Value: 3.24
-Prediction: 3.46,    Actual Value: 3.24
-Prediction: 3.74,    Actual Value: 3.80
-Prediction: 4.31,    Actual Value: 4.50
-Prediction: 4.20,    Actual Value: 4.32
-Prediction: 4.08,    Actual Value: 4.13
-Prediction: 4.03,    Actual Value: 4.09
-Prediction: 4.09,    Actual Value: 3.80
-Prediction: 4.23,    Actual Value: 4.08
-Prediction: 5.07,    Actual Value: 5.37
-Prediction: 5.88,    Actual Value: 6.08
-Prediction: 5.99,    Actual Value: 6.08
-Prediction: 5.96,    Actual Value: 5.97
-Prediction: 5.81,    Actual Value: 6.11
-Prediction: 5.64,    Actual Value: 6.09
-Prediction: 5.58,    Actual Value: 5.94
-Prediction: 5.73,    Actual Value: 5.92
-Prediction: 5.46,    Actual Value: 6.28
-Prediction: 5.36,    Actual Value: 5.92
-Prediction: 4.42,    Actual Value: 4.88
-Prediction: 3.65,    Actual Value: 3.15
-Prediction: 3.50,    Actual Value: 3.35
-Prediction: 3.30,    Actual Value: 3.38
-Prediction: 2.80,    Actual Value: 2.59
-Prediction: 2.72,    Actual Value: 2.68
-Prediction: 2.69,    Actual Value: 2.70
-Prediction: 2.40,    Actual Value: 2.39
-Prediction: 2.50,    Actual Value: 1.70
-Prediction: 2.85,    Actual Value: 2.05
-Prediction: 3.23,    Actual Value: 3.65
-Prediction: 3.38,    Actual Value: 3.60
-Prediction: 3.29,    Actual Value: 3.57
-Prediction: 3.27,    Actual Value: 3.53
-Prediction: 3.26,    Actual Value: 3.54
-Prediction: 3.29,    Actual Value: 3.51
-Prediction: 3.36,    Actual Value: 3.48
-Prediction: 3.37,    Actual Value: 3.51
-Prediction: 3.43,    Actual Value: 3.72
-Prediction: 2.95,    Actual Value: 3.47
-Prediction: 2.68,    Actual Value: 1.86
-Prediction: 2.53,    Actual Value: 2.20
-Prediction: 2.40,    Actual Value: 2.05
-Prediction: 2.38,    Actual Value: 2.06
-Prediction: 2.68,    Actual Value: 2.84
-Prediction: 2.77,    Actual Value: 3.56
-Prediction: 3.16,    Actual Value: 3.55
-Prediction: 3.59,    Actual Value: 4.22
-Prediction: 3.76,    Actual Value: 4.09
-Prediction: 4.15,    Actual Value: 4.09
-Prediction: 4.09,    Actual Value: 4.09
-Prediction: 4.06,    Actual Value: 3.78
-Prediction: 4.06,    Actual Value: 3.99
-Prediction: 4.09,    Actual Value: 4.20
-Prediction: 3.69,    Actual Value: 3.90
-Prediction: 3.38,    Actual Value: 3.13
-Prediction: 2.93,    Actual Value: 3.16
-Prediction: 2.72,    Actual Value: 2.35
-Prediction: 2.63,    Actual Value: 2.36
-Prediction: 2.71,    Actual Value: 2.71
-Prediction: 2.56,    Actual Value: 2.76
-Prediction: 2.40,    Actual Value: 2.70
-Prediction: 2.21,    Actual Value: 2.69
-Prediction: 2.22,    Actual Value: 2.42
-Prediction: 2.40,    Actual Value: 2.34
-Prediction: 2.62,    Actual Value: 2.34
-Prediction: 2.70,    Actual Value: 2.33
-Prediction: 2.64,    Actual Value: 2.65
-Prediction: 2.75,    Actual Value: 2.84
-Prediction: 2.40,    Actual Value: 2.47
-Prediction: 2.39,    Actual Value: 2.44
-Prediction: 2.41,    Actual Value: 2.17
-Prediction: 2.36,    Actual Value: 2.08
-Prediction: 2.29,    Actual Value: 2.12
-Prediction: 2.18,    Actual Value: 2.05
-Prediction: 2.26,    Actual Value: 2.08
-Prediction: 2.15,    Actual Value: 2.23
-Prediction: 1.53,    Actual Value: 1.58
-Prediction: 1.44,    Actual Value: 1.49
-Prediction: 1.30,    Actual Value: 1.30
-Prediction: 1.37,    Actual Value: 1.31
-Prediction: 1.58,    Actual Value: 1.32
-Prediction: 1.92,    Actual Value: 1.74
-Prediction: 1.98,    Actual Value: 1.70
-Prediction: 2.23,    Actual Value: 1.72
-Prediction: 2.50,    Actual Value: 3.16
-Prediction: 3.14,    Actual Value: 2.80
-Prediction: 3.45,    Actual Value: 3.55
-Prediction: 3.66,    Actual Value: 3.65
-Prediction: 3.88,    Actual Value: 3.73
-Prediction: 3.86,    Actual Value: 3.84
-Prediction: 3.78,    Actual Value: 4.12
-Prediction: 3.64,    Actual Value: 4.10
-Prediction: 3.77,    Actual Value: 4.09
-Prediction: 3.72,    Actual Value: 4.15
-Prediction: 3.22,    Actual Value: 2.83
-Prediction: 2.93,    Actual Value: 2.82
-Prediction: 2.68,    Actual Value: 2.32
-Prediction: 2.39,    Actual Value: 2.59
-Prediction: 2.13,    Actual Value: 2.45
-Prediction: 1.96,    Actual Value: 2.07
-Prediction: 1.93,    Actual Value: 1.73
-Prediction: 1.98,    Actual Value: 1.78
-Prediction: 1.91,    Actual Value: 1.76
-Prediction: 1.72,    Actual Value: 1.63
-Prediction: 1.76,    Actual Value: 1.76
-Prediction: 1.82,    Actual Value: 1.93
-Prediction: 1.79,    Actual Value: 1.93
-Prediction: 1.52,    Actual Value: 1.53
-Prediction: 1.45,    Actual Value: 1.41
-Prediction: 1.46,    Actual Value: 1.46
-Prediction: 1.43,    Actual Value: 1.46
-Prediction: 1.55,    Actual Value: 1.41
-Prediction: 1.91,    Actual Value: 1.58
-Prediction: 2.20,    Actual Value: 1.97
-Prediction: 2.08,    Actual Value: 1.97
-Prediction: 1.93,    Actual Value: 1.72
-Prediction: 1.93,    Actual Value: 1.97
-Prediction: 2.05,    Actual Value: 1.98
-Prediction: 2.64,    Actual Value: 1.97
-Prediction: 3.33,    Actual Value: 3.58
-Prediction: 3.31,    Actual Value: 3.60
-Prediction: 3.45,    Actual Value: 3.70
-Prediction: 3.95,    Actual Value: 4.23
-Prediction: 4.12,    Actual Value: 4.09
-Prediction: 4.36,    Actual Value: 3.99
-Prediction: 4.53,    Actual Value: 3.99
-Prediction: 4.74,    Actual Value: 5.06
-Prediction: 4.94,    Actual Value: 5.03
-Prediction: 4.93,    Actual Value: 5.28
-Prediction: 4.33,    Actual Value: 4.40
-Prediction: 4.36,    Actual Value: 4.48
-Prediction: 4.48,    Actual Value: 4.77
-Prediction: 4.19,    Actual Value: 4.40
-Prediction: 4.21,    Actual Value: 4.42
-Prediction: 4.10,    Actual Value: 4.15
-Prediction: 4.27,    Actual Value: 5.43
-Prediction: 4.44,    Actual Value: 4.61
-Prediction: 4.57,    Actual Value: 4.56
-Prediction: 4.40,    Actual Value: 4.39
-Prediction: 4.53,    Actual Value: 4.39
-Prediction: 4.68,    Actual Value: 5.11
-Prediction: 4.35,    Actual Value: 4.72
-Prediction: 4.03,    Actual Value: 4.24
-Prediction: 3.98,    Actual Value: 4.25
-Prediction: 4.03,    Actual Value: 4.26
-Prediction: 3.46,    Actual Value: 2.80
-Prediction: 3.18,    Actual Value: 2.84
-Prediction: 3.14,    Actual Value: 3.16
-Prediction: 2.98,    Actual Value: 3.54
-Prediction: 3.09,    Actual Value: 3.78
-Prediction: 2.83,    Actual Value: 2.57
-Prediction: 2.84,    Actual Value: 2.92
-Prediction: 3.26,    Actual Value: 3.07
-Prediction: 3.21,    Actual Value: 3.27
-Prediction: 3.24,    Actual Value: 3.30
-Prediction: 3.53,    Actual Value: 3.26
-Prediction: 4.11,    Actual Value: 3.44
-Prediction: 4.21,    Actual Value: 3.96
-Prediction: 3.78,    Actual Value: 3.58
-Prediction: 3.46,    Actual Value: 3.50
-Prediction: 3.24,    Actual Value: 3.55
-Prediction: 3.16,    Actual Value: 3.28
-Prediction: 2.61,    Actual Value: 3.00
-Prediction: 2.68,    Actual Value: 2.88
-Prediction: 3.04,    Actual Value: 3.00
-Prediction: 2.77,    Actual Value: 2.91
-Prediction: 2.13,    Actual Value: 2.21
-Prediction: 1.85,    Actual Value: 1.95
-Prediction: 1.85,    Actual Value: 1.62
-Prediction: 1.87,    Actual Value: 1.57
-Prediction: 2.06,    Actual Value: 2.49
-Prediction: 2.10,    Actual Value: 2.48
-Prediction: 2.35,    Actual Value: 2.61
-Prediction: 2.33,    Actual Value: 2.61
-Prediction: 2.28,    Actual Value: 2.38
-Prediction: 2.12,    Actual Value: 2.55
-Prediction: 2.50,    Actual Value: 2.89
-Prediction: 2.90,    Actual Value: 2.85
-Prediction: 2.73,    Actual Value: 2.92
-Prediction: 2.60,    Actual Value: 2.87
-Prediction: 2.31,    Actual Value: 2.17
-Prediction: 2.38,    Actual Value: 2.17
-Prediction: 1.89,    Actual Value: 1.82
-Prediction: 1.86,    Actual Value: 1.87
-Prediction: 2.31,    Actual Value: 2.13
-Prediction: 2.59,    Actual Value: 1.96
-Prediction: 2.30,    Actual Value: 1.70
-Prediction: 1.90,    Actual Value: 1.70
-Prediction: 1.92,    Actual Value: 1.57
-Prediction: 2.10,    Actual Value: 1.57
-Prediction: 2.42,    Actual Value: 2.57
-Prediction: 2.57,    Actual Value: 2.62
-Prediction: 3.09,    Actual Value: 3.31
-Prediction: 3.25,    Actual Value: 3.32
-Prediction: 2.97,    Actual Value: 3.07
-Prediction: 2.80,    Actual Value: 3.14
-Prediction: 2.96,    Actual Value: 3.14
-Prediction: 3.31,    Actual Value: 3.40
-Prediction: 3.49,    Actual Value: 3.40
-Prediction: 3.17,    Actual Value: 3.38
-Prediction: 2.55,    Actual Value: 2.77
-Prediction: 2.63,    Actual Value: 2.90
-Prediction: 2.19,    Actual Value: 1.85
-Prediction: 2.28,    Actual Value: 1.86
-Prediction: 2.68,    Actual Value: 2.15
-Prediction: 2.76,    Actual Value: 2.17
-Prediction: 2.40,    Actual Value: 2.17
-Prediction: 2.49,    Actual Value: 2.19
-Prediction: 2.39,    Actual Value: 2.52
-Prediction: 2.58,    Actual Value: 2.52
-Prediction: 2.98,    Actual Value: 2.89
-Prediction: 2.93,    Actual Value: 2.91
-Prediction: 2.77,    Actual Value: 3.05
-Prediction: 2.63,    Actual Value: 3.05
-Prediction: 2.45,    Actual Value: 2.72
-Prediction: 2.79,    Actual Value: 2.91
-Prediction: 2.87,    Actual Value: 2.94
-Prediction: 2.42,    Actual Value: 2.82
-Prediction: 2.04,    Actual Value: 2.38
-Prediction: 1.81,    Actual Value: 2.37
-Prediction: 1.51,    Actual Value: 1.37
-Prediction: 1.85,    Actual Value: 1.38
-Prediction: 2.74,    Actual Value: 1.31
-Prediction: 3.48,    Actual Value: 3.05
-Prediction: 3.50,    Actual Value: 3.16
-Prediction: 3.22,    Actual Value: 3.26
-Prediction: 3.08,    Actual Value: 3.10
-Prediction: 3.24,    Actual Value: 3.09
-Prediction: 3.04,    Actual Value: 3.07
-Prediction: 3.54,    Actual Value: 3.34
-Prediction: 3.91,    Actual Value: 3.90
-Prediction: 3.67,    Actual Value: 3.90
-Prediction: 3.31,    Actual Value: 4.03
-Prediction: 2.71,    Actual Value: 2.36
-Prediction: 2.67,    Actual Value: 2.45
-Prediction: 2.65,    Actual Value: 2.47
-Prediction: 2.44,    Actual Value: 2.35
-Prediction: 2.31,    Actual Value: 2.35
-Prediction: 2.37,    Actual Value: 2.22
-Prediction: 2.16,    Actual Value: 2.14
-Prediction: 1.95,    Actual Value: 1.50
-Prediction: 1.99,    Actual Value: 2.09
-Prediction: 1.72,    Actual Value: 1.89
-Prediction: 2.03,    Actual Value: 1.92
-Prediction: 2.15,    Actual Value: 2.19
-Prediction: 2.00,    Actual Value: 2.19
-Prediction: 2.18,    Actual Value: 2.20
-Prediction: 2.12,    Actual Value: 2.05
-Prediction: 1.82,    Actual Value: 2.05
-Prediction: 2.07,    Actual Value: 2.06
-Prediction: 2.08,    Actual Value: 2.13
-Prediction: 2.44,    Actual Value: 1.78
-Prediction: 3.01,    Actual Value: 1.82
-Prediction: 2.93,    Actual Value: 3.44
-Prediction: 3.23,    Actual Value: 3.20
-Prediction: 3.11,    Actual Value: 3.22
-Prediction: 3.21,    Actual Value: 3.18
-Prediction: 3.22,    Actual Value: 3.29
-Prediction: 3.26,    Actual Value: 3.28
-Prediction: 3.30,    Actual Value: 3.23
-Prediction: 2.94,    Actual Value: 3.24
-Prediction: 2.91,    Actual Value: 3.30
-Prediction: 2.83,    Actual Value: 3.69
-Prediction: 2.53,    Actual Value: 1.69
-Prediction: 2.37,    Actual Value: 1.76
-Prediction: 2.06,    Actual Value: 1.85
-Prediction: 1.98,    Actual Value: 1.96
-Prediction: 1.86,    Actual Value: 2.11
-Prediction: 1.85,    Actual Value: 2.04
-Prediction: 1.90,    Actual Value: 2.04
-Prediction: 1.92,    Actual Value: 2.05
-Prediction: 1.92,    Actual Value: 2.01
-Prediction: 1.49,    Actual Value: 1.32
-Prediction: 1.33,    Actual Value: 1.06
-Prediction: 1.50,    Actual Value: 1.05
-Prediction: 1.41,    Actual Value: 1.19
-Prediction: 1.26,    Actual Value: 1.13
-Prediction: 0.87,    Actual Value: 0.78
-Prediction: 1.18,    Actual Value: 0.84
-Prediction: 1.57,    Actual Value: 0.96
-Prediction: 1.68,    Actual Value: 1.62
-Prediction: 1.70,    Actual Value: 1.60
-Prediction: 1.83,    Actual Value: 1.75
-Prediction: 2.03,    Actual Value: 1.76
-Prediction: 1.73,    Actual Value: 1.76
-Prediction: 2.01,    Actual Value: 1.67
-Prediction: 2.20,    Actual Value: 1.87
-Prediction: 2.64,    Actual Value: 2.42
-Prediction: 2.69,    Actual Value: 2.44
-Prediction: 2.48,    Actual Value: 2.57
-Prediction: 2.55,    Actual Value: 2.09
-Prediction: 2.37,    Actual Value: 2.10
-Prediction: 2.19,    Actual Value: 2.06
-Prediction: 2.40,    Actual Value: 2.17
-Prediction: 3.05,    Actual Value: 3.28
-Prediction: 3.29,    Actual Value: 3.55
-Prediction: 3.39,    Actual Value: 3.59
-Prediction: 3.38,    Actual Value: 3.94
-Prediction: 3.69,    Actual Value: 4.02
-Prediction: 3.83,    Actual Value: 3.75
-Prediction: 3.92,    Actual Value: 3.71
-Prediction: 3.89,    Actual Value: 3.61
-Prediction: 4.23,    Actual Value: 3.60
-Prediction: 3.89,    Actual Value: 3.95
-Prediction: 3.51,    Actual Value: 3.18
-Prediction: 3.97,    Actual Value: 4.08
-Prediction: 4.22,    Actual Value: 4.04
-Prediction: 4.37,    Actual Value: 3.64
-Prediction: 4.24,    Actual Value: 3.38
-Prediction: 4.16,    Actual Value: 3.49
-Prediction: 3.99,    Actual Value: 4.20
-Prediction: 4.10,    Actual Value: 4.19
-Prediction: 3.67,    Actual Value: 4.16
-Prediction: 3.52,    Actual Value: 4.10
-Prediction: 3.44,    Actual Value: 4.08
-Prediction: 3.27,    Actual Value: 2.56
-Prediction: 3.04,    Actual Value: 2.96
-Prediction: 2.98,    Actual Value: 2.87
-Prediction: 2.81,    Actual Value: 2.69
-Prediction: 2.70,    Actual Value: 2.86
-Prediction: 2.89,    Actual Value: 2.89
-Prediction: 3.16,    Actual Value: 2.89
-Prediction: 3.05,    Actual Value: 2.90
-Prediction: 3.25,    Actual Value: 2.94
-Prediction: 2.69,    Actual Value: 2.94
-Prediction: 2.58,    Actual Value: 2.87
-Prediction: 2.76,    Actual Value: 2.84
-Prediction: 2.95,    Actual Value: 3.05
-Prediction: 2.82,    Actual Value: 2.83
-Prediction: 2.74,    Actual Value: 2.87
-Prediction: 2.80,    Actual Value: 2.69
-Prediction: 2.88,    Actual Value: 2.89
-Prediction: 3.47,    Actual Value: 3.35
-Prediction: 3.74,    Actual Value: 3.84
-Prediction: 3.66,    Actual Value: 3.76
-Prediction: 3.46,    Actual Value: 3.84
-Prediction: 3.12,    Actual Value: 3.40
-Prediction: 3.24,    Actual Value: 3.17
-Prediction: 3.12,    Actual Value: 3.33
-Prediction: 2.91,    Actual Value: 3.35
-Prediction: 3.52,    Actual Value: 3.31
-Prediction: 3.96,    Actual Value: 4.64
-Prediction: 4.28,    Actual Value: 4.37
-Prediction: 3.98,    Actual Value: 3.66
-Prediction: 3.82,    Actual Value: 3.46
-Prediction: 3.84,    Actual Value: 3.75
-Prediction: 3.45,    Actual Value: 3.61
-Prediction: 3.54,    Actual Value: 3.56
-Prediction: 3.62,    Actual Value: 3.54
-Prediction: 3.71,    Actual Value: 3.56
-Prediction: 3.13,    Actual Value: 3.54
-Prediction: 2.26,    Actual Value: 2.01
-Prediction: 2.08,    Actual Value: 1.88
-Prediction: 2.35,    Actual Value: 2.63
-Prediction: 2.57,    Actual Value: 2.57
-Prediction: 2.34,    Actual Value: 2.40
-Prediction: 2.32,    Actual Value: 2.37
-Prediction: 2.28,    Actual Value: 2.33
-Prediction: 2.40,    Actual Value: 2.33
-Prediction: 2.51,    Actual Value: 2.33
-Prediction: 2.46,    Actual Value: 2.38
-Prediction: 2.63,    Actual Value: 2.46
-Prediction: 2.58,    Actual Value: 2.70
-Prediction: 2.02,    Actual Value: 2.06
-Prediction: 1.71,    Actual Value: 1.96
-Prediction: 2.01,    Actual Value: 1.98
-Prediction: 2.11,    Actual Value: 2.05
-Prediction: 2.15,    Actual Value: 1.97
-Prediction: 1.97,    Actual Value: 1.92
-Prediction: 1.84,    Actual Value: 1.92
-Prediction: 2.28,    Actual Value: 1.95
-Prediction: 2.48,    Actual Value: 2.29
-Prediction: 2.30,    Actual Value: 2.04
-Prediction: 2.49,    Actual Value: 1.99
-Prediction: 2.25,    Actual Value: 2.29
-Prediction: 2.05,    Actual Value: 2.09
-Prediction: 2.01,    Actual Value: 1.98
-Prediction: 2.03,    Actual Value: 2.09
-Prediction: 2.09,    Actual Value: 2.09
-Prediction: 1.86,    Actual Value: 2.09
-Prediction: 1.76,    Actual Value: 2.19
-Prediction: 1.68,    Actual Value: 1.61
-Prediction: 1.89,    Actual Value: 1.63
-Prediction: 1.58,    Actual Value: 1.65
-Prediction: 1.68,    Actual Value: 1.53
-Prediction: 1.59,    Actual Value: 1.58
-Prediction: 1.54,    Actual Value: 1.59
-Prediction: 1.81,    Actual Value: 1.51
-Prediction: 1.71,    Actual Value: 1.70
-Prediction: 1.81,    Actual Value: 1.70
-Prediction: 1.87,    Actual Value: 1.72
-Prediction: 2.11,    Actual Value: 1.68
-Prediction: 2.04,    Actual Value: 2.16
-Prediction: 1.93,    Actual Value: 2.21
-Prediction: 1.71,    Actual Value: 2.15
-Prediction: 2.08,    Actual Value: 2.34
-Prediction: 2.46,    Actual Value: 2.44
-Prediction: 2.41,    Actual Value: 2.30
-Prediction: 2.15,    Actual Value: 1.96
-Prediction: 2.00,    Actual Value: 1.80
-Prediction: 2.06,    Actual Value: 1.87
-Prediction: 2.38,    Actual Value: 1.83
-Prediction: 2.77,    Actual Value: 3.13
-Prediction: 2.71,    Actual Value: 3.12
-Prediction: 2.91,    Actual Value: 3.16
-Prediction: 3.13,    Actual Value: 3.96
-Prediction: 3.21,    Actual Value: 4.13
-Prediction: 3.41,    Actual Value: 4.12
-Prediction: 3.67,    Actual Value: 4.16
-Prediction: 3.67,    Actual Value: 4.36
-Prediction: 3.65,    Actual Value: 4.34
-Prediction: 3.44,    Actual Value: 4.30
-Prediction: 3.03,    Actual Value: 3.44
-Prediction: 3.08,    Actual Value: 3.42
-Prediction: 2.84,    Actual Value: 3.86
-Prediction: 2.70,    Actual Value: 2.85
-Prediction: 2.35,    Actual Value: 2.71
-Prediction: 2.51,    Actual Value: 2.71
-Prediction: 2.73,    Actual Value: 2.69
-Prediction: 2.73,    Actual Value: 2.36
-Prediction: 2.65,    Actual Value: 2.57
-Prediction: 3.01,    Actual Value: 3.69
-Prediction: 3.22,    Actual Value: 3.71
-Prediction: 3.26,    Actual Value: 3.65
-Prediction: 3.12,    Actual Value: 2.97
-Prediction: 2.94,    Actual Value: 3.37
-Prediction: 3.28,    Actual Value: 3.47
-Prediction: 3.41,    Actual Value: 3.54
-Prediction: 3.37,    Actual Value: 3.55
-Prediction: 3.18,    Actual Value: 3.38
-Prediction: 2.80,    Actual Value: 3.38
-Prediction: 2.50,    Actual Value: 2.07
-Prediction: 2.73,    Actual Value: 2.80
-Prediction: 2.66,    Actual Value: 2.78
-Prediction: 2.65,    Actual Value: 2.74
-Prediction: 2.56,    Actual Value: 2.25
-Prediction: 2.26,    Actual Value: 2.18
-Prediction: 2.16,    Actual Value: 2.17
-Prediction: 2.54,    Actual Value: 2.15
-Prediction: 2.72,    Actual Value: 2.63
-Prediction: 2.65,    Actual Value: 2.54
-Prediction: 2.55,    Actual Value: 2.85
-Prediction: 2.33,    Actual Value: 2.43
-Prediction: 2.35,    Actual Value: 2.42
-Prediction: 2.21,    Actual Value: 2.41
-Prediction: 1.92,    Actual Value: 2.42
-Prediction: 2.27,    Actual Value: 2.28
-Prediction: 2.09,    Actual Value: 2.31
-Prediction: 1.72,    Actual Value: 2.29
-Prediction: 1.68,    Actual Value: 1.92
-Prediction: 1.88,    Actual Value: 2.27
-Prediction: 1.95,    Actual Value: 1.96
-Prediction: 2.19,    Actual Value: 1.89
-Prediction: 2.60,    Actual Value: 2.15
-Prediction: 3.04,    Actual Value: 4.00
-Prediction: 3.82,    Actual Value: 4.17
-Prediction: 3.63,    Actual Value: 4.13
-Prediction: 4.02,    Actual Value: 4.14
-Prediction: 4.18,    Actual Value: 4.14
-Prediction: 3.63,    Actual Value: 3.86
-Prediction: 3.72,    Actual Value: 3.64
-Prediction: 4.07,    Actual Value: 3.98
-Prediction: 3.89,    Actual Value: 3.84
-Prediction: 3.62,    Actual Value: 3.84
-Prediction: 3.07,    Actual Value: 2.35
-Prediction: 3.02,    Actual Value: 2.02
-Prediction: 2.43,    Actual Value: 2.17
-Prediction: 2.68,    Actual Value: 3.12
-Prediction: 3.00,    Actual Value: 3.30
-Prediction: 3.13,    Actual Value: 3.36
-Prediction: 3.11,    Actual Value: 3.38
-Prediction: 2.63,    Actual Value: 3.09
-Prediction: 2.53,    Actual Value: 3.08
-Prediction: 2.76,    Actual Value: 3.11
-Prediction: 2.62,    Actual Value: 2.97
-Prediction: 2.50,    Actual Value: 2.65
-Prediction: 2.36,    Actual Value: 2.68
-Prediction: 1.93,    Actual Value: 1.98
-Prediction: 1.44,    Actual Value: 1.60
-Prediction: 1.49,    Actual Value: 1.58
-Prediction: 2.09,    Actual Value: 1.59
-Prediction: 2.70,    Actual Value: 2.25
-Prediction: 3.12,    Actual Value: 2.27
-Prediction: 2.69,    Actual Value: 2.27
-Prediction: 2.45,    Actual Value: 2.63
-Prediction: 2.66,    Actual Value: 2.61
-Prediction: 3.22,    Actual Value: 3.19
-Prediction: 3.17,    Actual Value: 3.10
-Prediction: 3.34,    Actual Value: 3.09
-Prediction: 3.13,    Actual Value: 3.09
-Prediction: 2.95,    Actual Value: 3.07
-Prediction: 2.53,    Actual Value: 2.16
-Prediction: 2.17,    Actual Value: 2.16
-Prediction: 2.09,    Actual Value: 2.20
-Prediction: 1.97,    Actual Value: 2.19
-Prediction: 1.97,    Actual Value: 2.18
-Prediction: 1.51,    Actual Value: 1.49
-Prediction: 1.48,    Actual Value: 1.46
-Prediction: 1.51,    Actual Value: 1.46
-Prediction: 1.56,    Actual Value: 1.51
-Prediction: 1.55,    Actual Value: 1.49
-Prediction: 1.47,    Actual Value: 1.54
-Prediction: 1.44,    Actual Value: 1.54
-Prediction: 1.28,    Actual Value: 1.53
-Prediction: 1.05,    Actual Value: 1.40
-Prediction: 1.23,    Actual Value: 1.36
-Prediction: 1.33,    Actual Value: 1.36
-Prediction: 1.34,    Actual Value: 1.38
-Prediction: 1.17,    Actual Value: 1.39
-Prediction: 1.36,    Actual Value: 1.48
-Prediction: 1.58,    Actual Value: 1.47
-Prediction: 1.57,    Actual Value: 1.35
-Prediction: 1.74,    Actual Value: 2.02
-Prediction: 1.73,    Actual Value: 1.92
-Prediction: 1.75,    Actual Value: 1.94
-Prediction: 1.83,    Actual Value: 1.87
-Prediction: 1.70,    Actual Value: 2.01
-Prediction: 1.61,    Actual Value: 1.99
-Prediction: 1.79,    Actual Value: 2.01
-Prediction: 1.72,    Actual Value: 1.94
-Prediction: 1.46,    Actual Value: 1.98
-Prediction: 1.50,    Actual Value: 1.99
-Prediction: 1.08,    Actual Value: 1.42
-Prediction: 1.25,    Actual Value: 1.28
-Prediction: 1.41,    Actual Value: 1.36
-Prediction: 1.16,    Actual Value: 1.36
-Prediction: 1.21,    Actual Value: 1.25
-Prediction: 1.11,    Actual Value: 1.31
-Prediction: 1.15,    Actual Value: 1.44
-Prediction: 1.73,    Actual Value: 1.66
-Prediction: 1.80,    Actual Value: 1.69
-Prediction: 1.90,    Actual Value: 1.65
-Prediction: 2.04,    Actual Value: 1.26
-Prediction: 2.73,    Actual Value: 3.56
-Prediction: 3.36,    Actual Value: 3.61
-Prediction: 3.33,    Actual Value: 3.62
-Prediction: 3.34,    Actual Value: 3.63
-Prediction: 3.38,    Actual Value: 3.66
-Prediction: 3.47,    Actual Value: 3.58
-Prediction: 3.24,    Actual Value: 3.43
-Prediction: 3.43,    Actual Value: 3.55
-Prediction: 3.16,    Actual Value: 3.55
-Prediction: 2.85,    Actual Value: 3.56
-Prediction: 2.43,    Actual Value: 1.42
-Prediction: 1.67,    Actual Value: 1.43
-Prediction: 1.50,    Actual Value: 1.43
-Prediction: 1.85,    Actual Value: 1.76
-Prediction: 1.73,    Actual Value: 1.73
-Prediction: 1.50,    Actual Value: 1.73
-Prediction: 1.50,    Actual Value: 1.73
-Prediction: 1.96,    Actual Value: 1.83
-Prediction: 2.32,    Actual Value: 2.17
-Prediction: 2.35,    Actual Value: 2.45
-Prediction: 2.44,    Actual Value: 2.48
-Prediction: 2.56,    Actual Value: 2.40
-Prediction: 2.73,    Actual Value: 2.52
-Prediction: 2.20,    Actual Value: 2.41
-Prediction: 2.21,    Actual Value: 2.36
-Prediction: 2.41,    Actual Value: 2.40
-Prediction: 2.13,    Actual Value: 2.40
-Prediction: 1.75,    Actual Value: 2.17
-Prediction: 1.49,    Actual Value: 1.72
-Prediction: 1.73,    Actual Value: 1.58
-Prediction: 2.15,    Actual Value: 1.68
-Prediction: 1.93,    Actual Value: 1.56
-Prediction: 1.56,    Actual Value: 1.48
-Prediction: 1.50,    Actual Value: 1.46
-Prediction: 1.60,    Actual Value: 1.84
-Prediction: 1.16,    Actual Value: 1.75
-Prediction: 1.24,    Actual Value: 1.80
-Prediction: 1.69,    Actual Value: 1.78
-Prediction: 1.40,    Actual Value: 1.93
-Prediction: 1.69,    Actual Value: 1.88
-Prediction: 1.44,    Actual Value: 1.62
-Prediction: 1.26,    Actual Value: 1.60
-Prediction: 1.61,    Actual Value: 1.67
-Prediction: 1.56,    Actual Value: 1.69
-Prediction: 1.38,    Actual Value: 1.54
-Prediction: 1.32,    Actual Value: 1.53
-Prediction: 0.90,    Actual Value: 1.37
-Prediction: 0.87,    Actual Value: 1.42
-Prediction: 1.28,    Actual Value: 1.30
-Prediction: 2.51,    Actual Value: 2.71
-Prediction: 3.10,    Actual Value: 2.72
-Prediction: 3.23,    Actual Value: 2.98
-Prediction: 3.14,    Actual Value: 3.01
-Prediction: 3.22,    Actual Value: 3.00
-Prediction: 3.61,    Actual Value: 3.03
-Prediction: 3.60,    Actual Value: 3.23
-Prediction: 3.70,    Actual Value: 3.23
-Prediction: 4.13,    Actual Value: 3.70
-Prediction: 3.80,    Actual Value: 3.69
-Prediction: 3.48,    Actual Value: 2.39
-Prediction: 2.60,    Actual Value: 2.32
-Prediction: 2.45,    Actual Value: 2.26
-Prediction: 2.34,    Actual Value: 2.53
-Prediction: 2.55,    Actual Value: 2.57
-Prediction: 2.17,    Actual Value: 2.59
-Prediction: 1.73,    Actual Value: 2.45
-Prediction: 1.97,    Actual Value: 2.50
-Prediction: 1.84,    Actual Value: 2.26
-Prediction: 2.15,    Actual Value: 2.26
-Prediction: 2.26,    Actual Value: 2.06
-Prediction: 2.02,    Actual Value: 2.12
-Prediction: 1.98,    Actual Value: 2.14
-Prediction: 1.75,    Actual Value: 1.99
-Prediction: 1.97,    Actual Value: 1.93
-Prediction: 1.97,    Actual Value: 1.93
-Prediction: 1.94,    Actual Value: 1.93
-Prediction: 2.05,    Actual Value: 1.87
-Prediction: 2.29,    Actual Value: 2.08
-Prediction: 2.41,    Actual Value: 2.10
-Prediction: 2.45,    Actual Value: 2.26
-Prediction: 2.10,    Actual Value: 2.28
-Prediction: 2.17,    Actual Value: 2.28
-Prediction: 2.14,    Actual Value: 2.23
-Prediction: 2.33,    Actual Value: 2.24
-Prediction: 2.33,    Actual Value: 2.35
-Prediction: 2.24,    Actual Value: 2.39
-Prediction: 1.89,    Actual Value: 2.35
-Prediction: 1.30,    Actual Value: 1.27
-Prediction: 1.45,    Actual Value: 1.27
-Prediction: 1.95,    Actual Value: 1.66
-Prediction: 2.15,    Actual Value: 1.57
-Prediction: 2.09,    Actual Value: 1.69
-Prediction: 1.90,    Actual Value: 1.83
-Prediction: 1.66,    Actual Value: 1.86
-Prediction: 1.51,    Actual Value: 1.75
-Prediction: 2.07,    Actual Value: 1.78
-Prediction: 2.42,    Actual Value: 1.87
-Prediction: 3.13,    Actual Value: 1.86
-Prediction: 3.35,    Actual Value: 2.09
-Prediction: 1.96,    Actual Value: 1.83
-Prediction: 1.91,    Actual Value: 1.83
-Prediction: 1.48,    Actual Value: 1.63
-Prediction: 1.44,    Actual Value: 1.60
-Prediction: 1.72,    Actual Value: 1.89
-Prediction: 1.72,    Actual Value: 1.89
-Prediction: 1.52,    Actual Value: 1.83
-Prediction: 1.65,    Actual Value: 1.79
-Prediction: 1.38,    Actual Value: 1.88
-Prediction: 1.19,    Actual Value: 1.73
-Prediction: 1.31,    Actual Value: 1.71
-Prediction: 1.49,    Actual Value: 1.71
-Prediction: 1.44,    Actual Value: 1.80
-Prediction: 1.32,    Actual Value: 1.78
-Prediction: 1.34,    Actual Value: 1.40
-Prediction: 1.22,    Actual Value: 1.41
-Prediction: 1.61,    Actual Value: 1.44
-Prediction: 1.92,    Actual Value: 1.67
-Prediction: 1.62,    Actual Value: 1.52
-Prediction: 1.48,    Actual Value: 1.48
-Prediction: 1.58,    Actual Value: 1.59
-Prediction: 1.56,    Actual Value: 1.58
-Prediction: 1.73,    Actual Value: 1.65
-Prediction: 1.90,    Actual Value: 1.68
-Prediction: 1.85,    Actual Value: 1.67
-Prediction: 1.82,    Actual Value: 1.66
-Prediction: 1.75,    Actual Value: 1.75
-Prediction: 1.58,    Actual Value: 1.49
-Prediction: 1.61,    Actual Value: 1.52
-Prediction: 1.74,    Actual Value: 1.53
-Prediction: 1.63,    Actual Value: 1.36
-Prediction: 1.49,    Actual Value: 1.48
-Prediction: 1.63,    Actual Value: 1.27
-Prediction: 1.30,    Actual Value: 1.70
-Prediction: 1.16,    Actual Value: 1.69
-Prediction: 1.58,    Actual Value: 1.67
-Prediction: 2.10,    Actual Value: 1.66
-Prediction: 1.85,    Actual Value: 1.65
-Prediction: 2.05,    Actual Value: 1.58
-Prediction: 1.64,    Actual Value: 1.57
-Prediction: 1.57,    Actual Value: 1.56
-Prediction: 1.62,    Actual Value: 1.33
-Prediction: 1.48,    Actual Value: 1.49
-Prediction: 1.48,    Actual Value: 1.47
-Prediction: 1.64,    Actual Value: 1.54
-Prediction: 1.57,    Actual Value: 1.53
-Prediction: 1.81,    Actual Value: 1.54
-Prediction: 1.55,    Actual Value: 1.56
-Prediction: 1.36,    Actual Value: 1.57
-Prediction: 1.60,    Actual Value: 1.58
-Prediction: 1.39,    Actual Value: 1.58
-Prediction: 1.56,    Actual Value: 1.58
-Prediction: 1.59,    Actual Value: 1.39
-Prediction: 1.47,    Actual Value: 1.25
-Prediction: 1.15,    Actual Value: 1.49
-Prediction: 1.15,    Actual Value: 1.39
-Prediction: 1.20,    Actual Value: 1.41
-Prediction: 1.04,    Actual Value: 1.42
-Prediction: 1.34,    Actual Value: 1.43
-Prediction: 1.74,    Actual Value: 1.56
-Prediction: 1.98,    Actual Value: 1.56
-Prediction: 1.97,    Actual Value: 1.61
-Prediction: 1.98,    Actual Value: 1.52
-Prediction: 1.68,    Actual Value: 1.17
-Prediction: 1.93,    Actual Value: 0.93
-Prediction: 2.03,    Actual Value: 1.28
-Prediction: 2.16,    Actual Value: 1.42
-Prediction: 1.83,    Actual Value: 1.46
-Prediction: 1.71,    Actual Value: 2.03
-Prediction: 1.95,    Actual Value: 2.14
-Prediction: 2.16,    Actual Value: 2.14
-Prediction: 2.03,    Actual Value: 2.09
-Prediction: 1.91,    Actual Value: 2.36
-Prediction: 2.72,    Actual Value: 2.40
-Prediction: 2.79,    Actual Value: 2.80
-Prediction: 2.44,    Actual Value: 2.70
-Prediction: 2.12,    Actual Value: 2.51
-Prediction: 2.47,    Actual Value: 2.64
-Prediction: 2.45,    Actual Value: 2.41
-Prediction: 2.36,    Actual Value: 2.26
-Prediction: 2.21,    Actual Value: 2.27
-Prediction: 2.26,    Actual Value: 2.30
-Prediction: 2.28,    Actual Value: 1.99
-Prediction: 1.94,    Actual Value: 1.87
-Prediction: 1.56,    Actual Value: 1.46
-Prediction: 1.67,    Actual Value: 1.42
-Prediction: 1.26,    Actual Value: 1.43
-Prediction: 1.13,    Actual Value: 1.08
-Prediction: 1.17,    Actual Value: 1.04
-Prediction: 0.95,    Actual Value: 1.06
-Prediction: 0.98,    Actual Value: 1.03
-Prediction: 1.00,    Actual Value: 1.01
-Prediction: 0.93,    Actual Value: 1.02
-Prediction: 1.60,    Actual Value: 1.21
-Prediction: 2.11,    Actual Value: 1.04
-Prediction: 1.85,    Actual Value: 1.25
-Prediction: 1.54,    Actual Value: 1.23
-Prediction: 1.37,    Actual Value: 1.29
-Prediction: 1.51,    Actual Value: 1.41
-Prediction: 1.99,    Actual Value: 1.57
-Prediction: 1.89,    Actual Value: 1.56
-Prediction: 2.11,    Actual Value: 1.62
-Prediction: 1.98,    Actual Value: 1.54
-Prediction: 1.21,    Actual Value: 1.56
-Prediction: 1.48,    Actual Value: 1.57
-Prediction: 1.64,    Actual Value: 1.36
-Prediction: 1.72,    Actual Value: 1.46
-Prediction: 1.57,    Actual Value: 1.36
-Prediction: 1.33,    Actual Value: 1.30
-Prediction: 1.50,    Actual Value: 1.07
-Prediction: 1.68,    Actual Value: 1.52
-Prediction: 1.71,    Actual Value: 1.48
-Prediction: 1.89,    Actual Value: 1.99
-Prediction: 2.28,    Actual Value: 2.00
-Prediction: 2.16,    Actual Value: 2.27
-Prediction: 2.14,    Actual Value: 2.30
-Prediction: 2.15,    Actual Value: 2.26
-Prediction: 2.28,    Actual Value: 2.28
-Prediction: 2.24,    Actual Value: 2.25
-Prediction: 2.03,    Actual Value: 2.36
-Prediction: 2.04,    Actual Value: 2.28
-Prediction: 2.23,    Actual Value: 2.25
-Prediction: 2.06,    Actual Value: 1.97
-Prediction: 1.69,    Actual Value: 1.76
-Prediction: 1.79,    Actual Value: 1.58
-Prediction: 1.86,    Actual Value: 2.39
-Prediction: 2.31,    Actual Value: 2.39
-Prediction: 2.37,    Actual Value: 2.39
-Prediction: 2.44,    Actual Value: 2.38
-Prediction: 2.70,    Actual Value: 2.27
-Prediction: 2.45,    Actual Value: 2.30
-Prediction: 2.32,    Actual Value: 2.30
-Prediction: 2.38,    Actual Value: 2.32
-Prediction: 2.27,    Actual Value: 2.37
-Prediction: 2.42,    Actual Value: 2.33
-Prediction: 1.93,    Actual Value: 1.43
-Prediction: 1.87,    Actual Value: 1.46
-Prediction: 1.98,    Actual Value: 1.65
-Prediction: 2.51,    Actual Value: 2.62
-Prediction: 2.85,    Actual Value: 2.95
-Prediction: 2.88,    Actual Value: 2.93
-Prediction: 2.87,    Actual Value: 2.97
-Prediction: 2.70,    Actual Value: 2.80
-Prediction: 2.98,    Actual Value: 2.98
-Prediction: 2.92,    Actual Value: 2.99
-Prediction: 2.83,    Actual Value: 2.88
-Prediction: 3.10,    Actual Value: 2.86
-Prediction: 2.85,    Actual Value: 2.65
-Prediction: 2.78,    Actual Value: 2.46
-Prediction: 2.27,    Actual Value: 2.30
-Prediction: 2.41,    Actual Value: 2.40
-Prediction: 2.46,    Actual Value: 2.34
-Prediction: 2.77,    Actual Value: 2.50
-Prediction: 3.02,    Actual Value: 2.53
-Prediction: 3.46,    Actual Value: 2.53
-Prediction: 3.78,    Actual Value: 2.53
-Prediction: 3.32,    Actual Value: 2.78
-Prediction: 3.70,    Actual Value: 2.33
-Prediction: 2.98,    Actual Value: 2.28
-Prediction: 2.64,    Actual Value: 2.19
-Prediction: 2.91,    Actual Value: 2.25
-Prediction: 2.89,    Actual Value: 2.39
-Prediction: 2.67,    Actual Value: 2.17
-Prediction: 2.25,    Actual Value: 2.04
-Prediction: 2.01,    Actual Value: 2.05
-Prediction: 1.70,    Actual Value: 2.23
-Prediction: 1.50,    Actual Value: 1.95
-Prediction: 1.72,    Actual Value: 1.95
-Prediction: 2.57,    Actual Value: 2.37
-Prediction: 3.42,    Actual Value: 2.37
-Prediction: 3.77,    Actual Value: 2.25
-Prediction: 4.73,    Actual Value: 2.05
-Prediction: 6.57,    Actual Value: 2.06
-Prediction: 8.60,    Actual Value: 2.16
-Prediction: 12.90,    Actual Value: 20.17
-Prediction: 15.41,    Actual Value: 20.16
-Prediction: 17.75,    Actual Value: 20.03
-Prediction: 18.63,    Actual Value: 20.01
-Prediction: 18.28,    Actual Value: 19.75
-Prediction: 17.46,    Actual Value: 19.80
-Prediction: 17.01,    Actual Value: 19.98
-Prediction: 16.35,    Actual Value: 19.95
-Prediction: 14.94,    Actual Value: 19.86
-Prediction: 12.96,    Actual Value: 19.88
-Prediction: 8.85,    Actual Value: 2.46
-Prediction: 6.11,    Actual Value: 2.09
-Prediction: 4.33,    Actual Value: 2.13
-Prediction: 3.31,    Actual Value: 2.12
-Prediction: 2.65,    Actual Value: 2.11
-Prediction: 2.32,    Actual Value: 2.10
-Prediction: 2.03,    Actual Value: 1.91
-Prediction: 1.84,    Actual Value: 1.90
-Prediction: 1.95,    Actual Value: 1.96
-Prediction: 2.07,    Actual Value: 1.90
-Prediction: 1.77,    Actual Value: 1.65
-Prediction: 1.82,    Actual Value: 1.86
-Prediction: 1.93,    Actual Value: 1.80
-Prediction: 2.68,    Actual Value: 2.15
-Prediction: 3.46,    Actual Value: 3.68
-Prediction: 3.94,    Actual Value: 3.76
-Prediction: 4.23,    Actual Value: 3.79
-Prediction: 4.45,    Actual Value: 3.99
-Prediction: 4.27,    Actual Value: 3.96
-Prediction: 4.65,    Actual Value: 4.04
-Prediction: 5.29,    Actual Value: 4.09
-Prediction: 5.23,    Actual Value: 4.72
-Prediction: 4.88,    Actual Value: 4.71
-Prediction: 4.38,    Actual Value: 4.38
-Prediction: 3.82,    Actual Value: 3.77
-Prediction: 3.79,    Actual Value: 3.69
-Prediction: 3.77,    Actual Value: 4.07
-Prediction: 3.87,    Actual Value: 3.77
-Prediction: 4.00,    Actual Value: 4.01
-Prediction: 3.77,    Actual Value: 4.15
-Prediction: 3.42,    Actual Value: 4.21
-Prediction: 3.13,    Actual Value: 3.09
-Prediction: 3.01,    Actual Value: 2.88
-Prediction: 2.74,    Actual Value: 2.85
-Prediction: 2.50,    Actual Value: 2.45
-Prediction: 2.69,    Actual Value: 2.48
-Prediction: 2.95,    Actual Value: 3.06
-Prediction: 2.83,    Actual Value: 2.77
-Prediction: 2.82,    Actual Value: 2.76
-Prediction: 3.00,    Actual Value: 2.74
-Prediction: 2.67,    Actual Value: 2.96
-Prediction: 2.69,    Actual Value: 3.07
-Prediction: 2.81,    Actual Value: 3.01
-Prediction: 2.77,    Actual Value: 3.01
-Prediction: 3.02,    Actual Value: 2.97
-Prediction: 3.07,    Actual Value: 3.16
-Prediction: 2.63,    Actual Value: 1.77
-Prediction: 2.46,    Actual Value: 1.80
-Prediction: 2.31,    Actual Value: 1.89
-Prediction: 2.21,    Actual Value: 2.15
-Prediction: 2.32,    Actual Value: 2.29
-Prediction: 2.05,    Actual Value: 2.04
-Prediction: 2.23,    Actual Value: 2.02
-Prediction: 2.52,    Actual Value: 2.05
-Prediction: 1.96,    Actual Value: 2.12
-Prediction: 1.82,    Actual Value: 1.20
-Prediction: 1.66,    Actual Value: 1.71
-Prediction: 1.59,    Actual Value: 1.72
-Prediction: 1.68,    Actual Value: 1.78
-Prediction: 2.07,    Actual Value: 1.72
-Prediction: 1.59,    Actual Value: 1.67
-Prediction: 1.86,    Actual Value: 1.64
-Prediction: 1.96,    Actual Value: 2.11
-Prediction: 2.07,    Actual Value: 2.04
-Prediction: 2.56,    Actual Value: 2.12
-Prediction: 2.49,    Actual Value: 2.27
-Prediction: 2.29,    Actual Value: 2.02
-Prediction: 2.30,    Actual Value: 2.06
-Prediction: 2.20,    Actual Value: 1.94
-Prediction: 2.36,    Actual Value: 2.15
-Prediction: 2.19,    Actual Value: 2.22
-Prediction: 1.99,    Actual Value: 2.21
-Prediction: 1.77,    Actual Value: 2.14
-Prediction: 2.26,    Actual Value: 2.13
-Prediction: 2.53,    Actual Value: 2.46
-Prediction: 2.96,    Actual Value: 2.41
-Prediction: 2.94,    Actual Value: 2.41
-Prediction: 2.71,    Actual Value: 2.39
-Prediction: 2.35,    Actual Value: 2.41
-Prediction: 1.81,    Actual Value: 2.24
-Prediction: 2.15,    Actual Value: 2.09
-Prediction: 2.50,    Actual Value: 2.16
-Prediction: 2.58,    Actual Value: 1.88
-Prediction: 2.26,    Actual Value: 1.88
-Prediction: 1.55,    Actual Value: 1.14
-Prediction: 2.21,    Actual Value: 1.91
-Prediction: 2.54,    Actual Value: 2.08
-Prediction: 2.81,    Actual Value: 2.04
-Prediction: 2.91,    Actual Value: 1.94
-Prediction: 2.52,    Actual Value: 2.15
-Prediction: 2.56,    Actual Value: 2.04
-Prediction: 2.63,    Actual Value: 2.04
-Prediction: 2.95,    Actual Value: 2.14
-Prediction: 3.50,    Actual Value: 2.13
-Prediction: 3.16,    Actual Value: 2.22
-Prediction: 2.07,    Actual Value: 2.15
-Prediction: 1.72,    Actual Value: 1.95
-Prediction: 2.19,    Actual Value: 2.43
-Prediction: 2.17,    Actual Value: 2.61
-Prediction: 2.59,    Actual Value: 2.48
-Prediction: 3.06,    Actual Value: 2.65
-Prediction: 3.15,    Actual Value: 2.69
-Prediction: 3.26,    Actual Value: 3.06
-Prediction: 3.21,    Actual Value: 3.84
-Prediction: 3.34,    Actual Value: 3.64
-Prediction: 3.53,    Actual Value: 3.61
-Prediction: 3.67,    Actual Value: 3.60
-Prediction: 2.98,    Actual Value: 3.14
-Prediction: 3.03,    Actual Value: 3.20
-Prediction: 2.98,    Actual Value: 2.79
-Prediction: 3.00,    Actual Value: 2.97
-Prediction: 2.71,    Actual Value: 3.01
-Prediction: 2.34,    Actual Value: 2.91
-Prediction: 2.05,    Actual Value: 1.80
-Prediction: 1.97,    Actual Value: 1.92
-Prediction: 1.91,    Actual Value: 1.93
-Prediction: 1.78,    Actual Value: 1.96
-Prediction: 1.73,    Actual Value: 1.87
-Prediction: 1.83,    Actual Value: 1.74
-Prediction: 1.50,    Actual Value: 1.82
-Prediction: 1.46,    Actual Value: 1.36
-Prediction: 1.59,    Actual Value: 1.70
-Prediction: 1.51,    Actual Value: 1.44
-Prediction: 1.56,    Actual Value: 1.56
-Prediction: 1.42,    Actual Value: 1.51
-Prediction: 1.64,    Actual Value: 1.78
-Prediction: 1.88,    Actual Value: 1.99
-Prediction: 1.87,    Actual Value: 2.07
-Prediction: 1.91,    Actual Value: 2.32
-Prediction: 1.86,    Actual Value: 2.30
-Prediction: 2.19,    Actual Value: 2.30
-Prediction: 2.00,    Actual Value: 1.97
-Prediction: 2.05,    Actual Value: 1.89
-Prediction: 2.22,    Actual Value: 1.89
-Prediction: 2.26,    Actual Value: 1.86
-Prediction: 2.03,    Actual Value: 1.68
-Prediction: 1.90,    Actual Value: 2.17
-Prediction: 1.76,    Actual Value: 2.06
-Prediction: 1.94,    Actual Value: 1.74
-Prediction: 2.35,    Actual Value: 1.87
-Prediction: 1.88,    Actual Value: 1.85
-Prediction: 1.98,    Actual Value: 1.77
-Prediction: 1.92,    Actual Value: 1.76
-Prediction: 1.91,    Actual Value: 1.83
-Prediction: 2.11,    Actual Value: 1.87
-Prediction: 2.19,    Actual Value: 1.99
-Prediction: 2.05,    Actual Value: 1.52
-Prediction: 2.15,    Actual Value: 1.62
-Prediction: 1.69,    Actual Value: 1.57
-Prediction: 1.43,    Actual Value: 1.48
-Prediction: 1.36,    Actual Value: 1.55
-Prediction: 1.70,    Actual Value: 1.62
-Prediction: 1.78,    Actual Value: 1.62
-Prediction: 1.61,    Actual Value: 1.77
-Prediction: 1.80,    Actual Value: 1.98
-Prediction: 1.91,    Actual Value: 2.13
-Prediction: 1.86,    Actual Value: 2.18
-Prediction: 2.15,    Actual Value: 2.29
-Prediction: 2.57,    Actual Value: 2.76
-Prediction: 2.45,    Actual Value: 2.77
-Prediction: 2.82,    Actual Value: 2.73
-Prediction: 2.91,    Actual Value: 3.08
-Prediction: 2.87,    Actual Value: 3.20
-Prediction: 2.89,    Actual Value: 3.10
-Prediction: 3.02,    Actual Value: 3.11
-Prediction: 2.95,    Actual Value: 3.13
-Prediction: 2.95,    Actual Value: 3.06
-Prediction: 2.81,    Actual Value: 2.82
-Prediction: 2.73,    Actual Value: 2.51
-Prediction: 2.66,    Actual Value: 2.29
-Prediction: 2.32,    Actual Value: 2.60
-Prediction: 2.17,    Actual Value: 1.86
-Prediction: 2.13,    Actual Value: 1.80
-Prediction: 1.85,    Actual Value: 1.79
-Prediction: 1.53,    Actual Value: 1.69
-Prediction: 1.45,    Actual Value: 1.21
-Prediction: 1.39,    Actual Value: 1.34
-Prediction: 1.29,    Actual Value: 1.33
-Prediction: 1.25,    Actual Value: 1.28
-Prediction: 1.25,    Actual Value: 1.27
-Prediction: 1.35,    Actual Value: 0.82
-Prediction: 1.11,    Actual Value: 0.87
-Prediction: 1.20,    Actual Value: 1.05
-Prediction: 1.31,    Actual Value: 1.36
-Prediction: 1.26,    Actual Value: 1.35
-Prediction: 1.37,    Actual Value: 1.35
-Prediction: 1.46,    Actual Value: 1.24
-Prediction: 1.38,    Actual Value: 1.24
-Prediction: 1.23,    Actual Value: 1.26
-Prediction: 1.16,    Actual Value: 1.24
-Prediction: 1.23,    Actual Value: 1.35
-Prediction: 1.14,    Actual Value: 1.33
-Prediction: 1.38,    Actual Value: 1.38
-Prediction: 1.40,    Actual Value: 1.18
-Prediction: 1.47,    Actual Value: 1.38
-Prediction: 1.38,    Actual Value: 1.39
-Prediction: 1.38,    Actual Value: 1.41
-Prediction: 1.52,    Actual Value: 1.44
-Prediction: 1.42,    Actual Value: 1.53
-Prediction: 1.50,    Actual Value: 1.54
-Prediction: 1.50,    Actual Value: 1.84
-Prediction: 1.58,    Actual Value: 1.88
-Prediction: 1.40,    Actual Value: 1.68
-Prediction: 1.51,    Actual Value: 1.65
-Prediction: 1.66,    Actual Value: 1.63
-Prediction: 1.75,    Actual Value: 1.80
-Prediction: 1.79,    Actual Value: 1.79
-Prediction: 1.80,    Actual Value: 1.82
-Prediction: 1.74,    Actual Value: 1.83
-Prediction: 1.61,    Actual Value: 1.70
-Prediction: 1.71,    Actual Value: 1.77
-Prediction: 1.61,    Actual Value: 1.78
-Prediction: 1.70,    Actual Value: 1.78
-Prediction: 1.92,    Actual Value: 1.82
-Prediction: 1.73,    Actual Value: 1.62
+Actual_Value,Predicted_Value,Prediction_Error
+0.024534461437440546,0.025897313,0.0013628514719241543
+0.028701772136263994,0.027773805,0.0009279671736289533
+0.029296211894472575,0.027409956,0.0018862560352883098
+0.02986800750656084,0.028897,0.0009710070298428915
+0.030600795328201893,0.027579753,0.003021042599858883
+0.030551850081691822,0.024690853,0.0058609966498709525
+0.03121437903085047,0.025434311,0.005780067551520406
+0.031131028170247592,0.026127713,0.005003315369148768
+0.030076084660629707,0.025554115,0.004521969707946258
+0.02990399766168104,0.024089634,0.005814363243193493
+0.023924657022071093,0.021346485,0.002578171779823512
+0.020548403646345376,0.02602601,0.005477606866960288
+0.021316709202898975,0.028022937,0.006706228273736004
+0.020917143587715285,0.02897611,0.0080589671537808
+0.030135276240923516,0.029704504,0.0004307725258852167
+0.03077599427875513,0.030190883,0.0005851110744141963
+0.029666333203528725,0.029882718,0.00021638467409769435
+0.031436371617971366,0.031230705,0.00020566675907224968
+0.03145614060226575,0.03424464,0.0027885010593782303
+0.032593469754548896,0.03570855,0.0031150806092301725
+0.031710460576114215,0.035702765,0.003992304411831342
+0.031534751190392375,0.035347365,0.003812613652499318
+0.03117489880886381,0.030650182,0.0005247171130449077
+0.04585530075144908,0.03800745,0.007847851392747372
+0.0402541057624018,0.04077397,0.0005198633812272743
+0.043022868998660736,0.043564256,0.000541387281999893
+0.04800010282103181,0.050126277,0.0021261740892732153
+0.048665641094664924,0.05407129,0.005405647461195595
+0.048788605161668594,0.057200868,0.008412262521026795
+0.05236318548100684,0.055482823,0.0031196379206826913
+0.05207111787926388,0.05539536,0.0033242431567983635
+0.06287182779715722,0.055361684,0.0075101433853930755
+0.06264902565356964,0.05817948,0.004469546561210097
+0.05411562823330993,0.054212943,9.731448614960087e-05
+0.053823981595837116,0.054073405,0.0002494229249129301
+0.05633248087308006,0.0534533,0.0028791807248313844
+0.03643418232746733,0.048578687,0.01214450468472826
+0.035983374374419716,0.043041192,0.007057817620724174
+0.045708889604256134,0.04412435,0.0015845396525120542
+0.0455206066793758,0.04621465,0.0006940446370285458
+0.05325962338101119,0.04638551,0.0068741116250678885
+0.048041898692944805,0.04786121,0.0001806876910717889
+0.048731353255963755,0.04592762,0.0028037318317656046
+0.04895836930238775,0.04494999,0.004008379536505256
+0.05156201399415254,0.044854037,0.006707976530487533
+0.04422425178042614,0.047258146,0.0030338943267706683
+0.04495709294819374,0.047206677,0.002249584548239515
+0.0449844869399808,0.04521036,0.00022587454073209196
+0.04335429195502703,0.0416064,0.0017478917930454502
+0.04412590000610869,0.042215656,0.0019102435169748577
+0.041177322546020356,0.040490456,0.0006868666205557261
+0.04118063336687069,0.038541242,0.0026393908865926727
+0.0397119402533278,0.038903173,0.000808767194102715
+0.038755354117847446,0.036723148,0.0020322060401210817
+0.03683106868890897,0.03029883,0.006532239610234657
+0.02586864551099794,0.027057203,0.0011885570218895178
+0.023768711928477883,0.027504036,0.0037353242745488888
+0.024152686732945433,0.026912203,0.0027595163256549926
+0.021452521197819707,0.025377639,0.0039251174401998545
+0.02346919941336984,0.023379048,9.015108079785811e-05
+0.025941388337978565,0.023936953,0.0020044349423734772
+0.02396917155600567,0.025423799,0.0014546271541021338
+0.024057846317969377,0.026639372,0.002581525792397444
+0.026005202430236865,0.025427664,0.0005775387314444075
+0.02604338627544336,0.026642649,0.0005992622277409577
+0.02258367541844319,0.028060073,0.005476397614532006
+0.023338725969460745,0.026536973,0.003198247223827104
+0.036669664028126166,0.032377776,0.004291888269621298
+0.03628676283014341,0.033836678,0.0024500851596645917
+0.03517494909452152,0.035703935,0.0005289856345777541
+0.034080452552403884,0.03582897,0.0017485178202729657
+0.03201019884664836,0.032083645,7.344661634144795e-05
+0.031801471754261415,0.029941594,0.0018598775261129546
+0.03685930617394875,0.033440676,0.0034186305874867318
+0.037810142449203755,0.034633193,0.0031769492841398975
+0.03831061182388157,0.032427102,0.005883509496534767
+0.03591557737589742,0.032658633,0.0032569445312109133
+0.028995274198526284,0.031570066,0.0025747915680466686
+0.031181749790455227,0.031908244,0.0007264941041217991
+0.03247588722679723,0.029526886,0.0029490016278992948
+0.031766357999650364,0.028435282,0.003331075590459233
+0.028997036256441972,0.028633492,0.00036354418898572674
+0.029091955857801888,0.026771922,0.002320034193325493
+0.019780933581165654,0.023257423,0.003476489611096995
+0.022749548275730492,0.024984935,0.002235387022831558
+0.023440048572314038,0.028093474,0.004653425413477168
+0.03268698169970098,0.029225819,0.003461162886853844
+0.03273821365256057,0.026784284,0.00595392961222873
+0.030737932948195334,0.024935171,0.005802761940085287
+0.029818809475359243,0.026772587,0.003046222846564573
+0.03108550024166208,0.029724956,0.0013605446828852258
+0.030914487287652972,0.027930364,0.002984123274934771
+0.03224634264083542,0.0301364,0.0021099418071094875
+0.03154146653823077,0.03263888,0.0010974148172932935
+0.036639299399506456,0.03269412,0.0039451794394367995
+0.049923897331714415,0.039467707,0.010456190055370115
+0.04622837378534859,0.04034621,0.005882164825530702
+0.04619580123707665,0.04397443,0.0022213718681038733
+0.04631962959016001,0.047144044,0.0008244146004852057
+0.046387156044230535,0.04483926,0.0015478968071795246
+0.0458748073996959,0.04226838,0.0036064268769679317
+0.046087153694545684,0.041321956,0.00476519807330316
+0.04495443105291257,0.042391486,0.0025629445869816345
+0.04443280902207277,0.0370178,0.007415009108189562
+0.033977340258016166,0.032493044,0.0014842965670962896
+0.014518694714269165,0.023991387,0.009472692623177048
+0.013639582889408431,0.019868458,0.006228874800472893
+0.019660128482050666,0.018641924,0.0010182039964864338
+0.023040563145575687,0.022615578,0.0004249851199962344
+0.024074605166269154,0.022631073,0.0014435317956932488
+0.024222058205281092,0.021459196,0.002762862442408396
+0.0240326239237538,0.0265578,0.002525175504947602
+0.02724763185471333,0.026159065,0.0010885670104626502
+0.02696535995108685,0.03001997,0.003054610659650951
+0.028030820929321396,0.03092102,0.002890198684421433
+0.028789591406715997,0.032961577,0.004171985770331732
+0.028409615324670973,0.036643136,0.008233520968025026
+0.02721191817720209,0.036160845,0.008948927132293834
+0.025638976085891982,0.033595625,0.007956649225244264
+0.03128996920998707,0.03557405,0.00428407954756603
+0.04174185814386943,0.03803334,0.0037085180175934138
+0.04324857109276601,0.044494744,0.0012461732974832426
+0.05316978055729474,0.04808189,0.005087890808721435
+0.0531758147273219,0.049217835,0.003957979658619201
+0.05216495855148972,0.05010531,0.00205964757498444
+0.05648947979733384,0.053689312,0.0028001676075164114
+0.05724466339848786,0.0554085,0.0018361632635429462
+0.0600237378854688,0.0549015,0.005122238584273658
+0.06037237555415693,0.056494802,0.003877573317599921
+0.058819860611799744,0.054324914,0.004494946841839341
+0.05183632562776859,0.051891666,5.534027794544538e-05
+0.05552227427595402,0.05252647,0.002995804002220881
+0.051039624768289285,0.05275507,0.0017154442193186709
+0.05252380202258764,0.05519819,0.002674386848557607
+0.05197212341330621,0.053141553,0.001169429541605975
+0.04643137604507502,0.049263272,0.002831896389398021
+0.04285365194370848,0.04594405,0.0030903980107058887
+0.04156033790633436,0.04129613,0.0002642097227310708
+0.04083113631829236,0.038073324,0.0027578126512429538
+0.03531864227490901,0.03827237,0.002953727378077517
+0.03504725058623546,0.041659843,0.006612592590367859
+0.04069609402213673,0.042352926,0.0016568319639148274
+0.03832568082564142,0.037883714,0.00044196698420312375
+0.0385357803928876,0.038187455,0.0003483250069642174
+0.042557475731024474,0.041289303,0.00126817227924797
+0.04235940800526379,0.04287325,0.0005138404526448398
+0.0417925883924033,0.04106722,0.0007253681217696054
+0.04041258408298077,0.04096455,0.0005519671870273177
+0.03999403995011504,0.0382302,0.0017638405833070997
+0.0391632469991838,0.03474016,0.0044230858484899035
+0.039797910921659276,0.035475723,0.004322187476243779
+0.02849542034126883,0.031208793,0.002713372360094734
+0.025747117033965608,0.030082423,0.004335306205980757
+0.025844961961183667,0.027172497,0.0013275345811508896
+0.016300055671440373,0.024005963,0.007705906864298572
+0.01488137014151392,0.020618413,0.005737042502157116
+0.01827897590768287,0.019145114,0.0008661384396558072
+0.018723898709394445,0.0184197,0.0003041989660043619
+0.018698915848198754,0.021819131,0.0031202156006661826
+0.020924662874259637,0.020822436,0.00010222725681273762
+0.02143573882124619,0.020577367,0.000858371426083606
+0.020612808494757346,0.019414673,0.001198135866712264
+0.020608132422948382,0.02092717,0.0003190378685946245
+0.019684874031862067,0.019088933,0.0005959407875144943
+0.016684504457208336,0.02091769,0.004233184970525085
+0.021045535152149096,0.02364811,0.0026025741348744483
+0.017297072073111347,0.022803204,0.005506132060995289
+0.017891509745041945,0.021990506,0.004098996233423136
+0.024842344573698473,0.021494376,0.003347969031892252
+0.02287180893565478,0.025029289,0.0021574796692007576
+0.023853441403063277,0.024845112,0.0009916707120814529
+0.02393020108465303,0.025415206,0.0014850052433813717
+0.02396276426723627,0.026885977,0.002923212747662985
+0.02456401220138348,0.027068993,0.0025049808752986118
+0.024563379292606685,0.02589673,0.0013333506088263058
+0.02250206102694522,0.028510472,0.006008410778984917
+0.035520479280876205,0.029475218,0.006045261595772788
+0.03413771284695958,0.03302288,0.0011148322927603607
+0.030954103449001028,0.033329885,0.002375782003984736
+0.030278407198630557,0.035924207,0.0056458002205264715
+0.03827259482405018,0.041912444,0.003639849111820942
+0.053817103003447525,0.04783366,0.005983444248621933
+0.05430149300677554,0.050522212,0.003779281067679087
+0.053544072234891486,0.054116372,0.0005722997841610192
+0.053583693844306224,0.055786837,0.0022031430480601855
+0.06366545358752848,0.058805928,0.004859525953289284
+0.053481928984794286,0.06072991,0.007247980703440043
+0.0565087981633468,0.060127936,0.0036191381402687697
+0.05543141987617725,0.059453256,0.004021836552064478
+0.053679365484530894,0.06086821,0.0071888456060338335
+0.06550348533705766,0.059123248,0.006380237475195477
+0.05827265838433249,0.054651156,0.003621502316484282
+0.057154582836876265,0.054908358,0.002246225276241652
+0.057613392019548765,0.05213272,0.005480673754492155
+0.05735697435196244,0.05139166,0.005965313184817668
+0.04998173769335653,0.0473394,0.0026423392794599695
+0.046482213907088184,0.04149752,0.0049846928046597475
+0.0449744152343685,0.040513694,0.004460720948022065
+0.044719057113499265,0.038979724,0.005739333063931089
+0.0443912598111662,0.033403315,0.010987945161107453
+0.03238862189942108,0.03547339,0.003084769514267581
+0.03266926396093533,0.036739502,0.004070238141201284
+0.03342589225966109,0.035923805,0.0024979128281437044
+0.032930921709317336,0.033502582,0.000571660751324525
+0.03464416791943933,0.03128388,0.0033602864041748157
+0.030396578925355466,0.029413283,0.0009832960541091285
+0.03104599373448887,0.03132321,0.0002772156704565036
+0.03543483049213871,0.03679447,0.0013596382683517053
+0.03233274077954007,0.040116444,0.007783703450539581
+0.03109654513565948,0.03795906,0.006862516427355504
+0.031375533981389564,0.033985846,0.002610311763220269
+0.032075910451440696,0.033658132,0.0015822215056134417
+0.03665254048346097,0.03788448,0.0012319407677788066
+0.03680373601708014,0.037155084,0.0003513482948819882
+0.040990758367920814,0.045032375,0.004041616192912163
+0.05024576103874851,0.050563153,0.000317391840728036
+0.051220964285529635,0.05378618,0.0025652166279186983
+0.04840897922490169,0.051743004,0.0033340252461619216
+0.04850587699869637,0.049687825,0.0011819481446408778
+0.047767841936778105,0.05007522,0.002307379869986498
+0.04537687716994575,0.05274882,0.007371944505831687
+0.045864513931462486,0.052540924,0.006676410468628685
+0.05156689921043833,0.053728245,0.0021613459882883213
+0.05427007102144962,0.058481604,0.00421153283940548
+0.053099456991541734,0.05404293,0.0009434746545668934
+0.05113760104335549,0.054457255,0.0033196536644577723
+0.050073663689060716,0.059340246,0.009266582332686873
+0.05350189358358486,0.05797673,0.00447483658428089
+0.06476455707438265,0.060649898,0.004114659171178689
+0.06462979031526948,0.060737364,0.003892426321147932
+0.06628561309262519,0.06332353,0.002962085518086008
+0.06727633638179764,0.06697297,0.00030336541927322713
+0.06168513560957815,0.06096876,0.0007163752085676336
+0.0638332460189868,0.06513377,0.0013005267714451818
+0.06486516521790328,0.062933624,0.0019315414271623144
+0.05779208563345119,0.05431604,0.00347604550498172
+0.054534568163390064,0.04913692,0.005397646399969959
+0.05259658925751964,0.048915148,0.0036814414761475664
+0.04324101252009585,0.049150284,0.005909271859624837
+0.04304860970015342,0.047639035,0.004590424988319325
+0.04434004012327274,0.042372044,0.0019679959474094774
+0.05315125414005669,0.04173401,0.011417244158901295
+0.05279512149011905,0.040327866,0.01246725585973079
+0.04530303716817702,0.035163,0.010140036942156205
+0.043207797850923955,0.039459974,0.003747824277239263
+0.04454897962166782,0.042882327,0.0016666526313018348
+0.04392681180078007,0.0430056,0.0009212112291476851
+0.03915638570427778,0.045350965,0.006194579408169962
+0.04921435457954009,0.041243467,0.007970887099595862
+0.04880755888319415,0.041436374,0.007371184695724668
+0.04874019906009645,0.03966933,0.009070867896928493
+0.04483404435623708,0.037413403,0.007420640964399004
+0.04525986621409838,0.03518992,0.010069947040380882
+0.04483326550415543,0.036744453,0.008088812491212162
+0.04472200669176989,0.03670544,0.008016564918832118
+0.044925921756000034,0.035361346,0.009564575898618213
+0.04435007775560596,0.039203152,0.005146925695097233
+0.05080044689424,0.042255796,0.008544650402140239
+0.046601515901844116,0.04780653,0.001205015289028076
+0.046940917267801814,0.04701516,7.424305438751694e-05
+0.04711126083136137,0.044212036,0.0028992249965720945
+0.04606298431735431,0.04468613,0.0013768531380215776
+0.04833961911174122,0.04998109,0.0016414720597618462
+0.05111587787537361,0.046935044,0.004180833646343002
+0.05108191211779419,0.04715261,0.003929303484752809
+0.050664154770453884,0.045512535,0.005151620092471554
+0.04437329085380541,0.039447654,0.004925636815137732
+0.03462008432604448,0.03865497,0.004034883816464982
+0.033796683155786184,0.03336747,0.00042921324897923774
+0.033556513927328814,0.033108976,0.000447538189041842
+0.04720682616230897,0.036903847,0.010302979153365414
+0.05064207915870465,0.040418986,0.010223092927616015
+0.041309360517760726,0.038399857,0.0029095039801802364
+0.041232725109926406,0.04050815,0.0007245740555440819
+0.03942086530766664,0.04098167,0.0015608036712628781
+0.04830572292492978,0.043814484,0.004491238894921465
+0.055821025676881623,0.04653092,0.009290104664718461
+0.06199100030762082,0.053966954,0.008024045957149326
+0.06118303489923658,0.06090506,0.00027797323703946525
+0.05991387014184811,0.06465069,0.0047368219038405185
+0.06274529497425667,0.061171338,0.0015739570121060947
+0.05767094071294622,0.057800636,0.00012969498251123868
+0.057635082933745606,0.05861531,0.0009802253212115933
+0.06380040382920088,0.060586333,0.0032140705543595716
+0.0631620782311019,0.057318237,0.005843841552263168
+0.060220229065262254,0.05756712,0.002653109466873582
+0.05550214671769266,0.056697376,0.0011952293547141113
+0.048458816239192494,0.050851434,0.0023926182300305285
+0.047454074447590075,0.045855876,0.0015981983892500023
+0.047709428743394275,0.042981956,0.004727472589286227
+0.0424186222597996,0.04066572,0.0017529026016632338
+0.039750402339343606,0.03906807,0.0006823330303474054
+0.03998527257255373,0.036915783,0.003069489733493899
+0.024686662466108577,0.031880572,0.007193909972131474
+0.02493329257017849,0.029576244,0.004642951262528915
+0.025729196349426976,0.028397398,0.002668201720073947
+0.0351873687218002,0.029513866,0.00567350301249539
+0.0311678397772829,0.032131948,0.0009641077997167638
+0.0341554416996893,0.033462726,0.0006927161199506843
+0.03366371069966314,0.03373608,7.236923159601588e-05
+0.03380675792427785,0.03192772,0.0018790382120204632
+0.03310049093473834,0.031222468,0.0018780226926891214
+0.03350007765086126,0.03287574,0.0006243386128706868
+0.032962268509595036,0.031582423,0.0013798459551020853
+0.032937584057412914,0.031706996,0.0012305877953393968
+0.03366547538562544,0.030572053,0.003093422340591033
+0.025379332969939227,0.02990501,0.004525677044833188
+0.0321458678195719,0.030352175,0.001793692583823607
+0.03030279361814187,0.028691376,0.0016114179900281224
+0.027815493923815746,0.02756201,0.00025348475316431043
+0.02989723720700294,0.029089782,0.0008074548199847355
+0.029621771906049376,0.02893409,0.0006876824391199403
+0.028635511345748488,0.028594514,4.099699068504936e-05
+0.040563624530854304,0.040321045,0.00024257990700252835
+0.04659332130798367,0.049568422,0.002975100830707275
+0.04662380779617946,0.051601734,0.004977926216185882
+0.04267352176703318,0.04649982,0.0038262967964281247
+0.04371497926891323,0.043750715,3.5735241766012005e-05
+0.04169363037042304,0.043581214,0.001887583431676186
+0.04727526097066436,0.04829438,0.00101911933653321
+0.051303532270498456,0.054697126,0.0033935938796327697
+0.06428201529047235,0.06357679,0.0007052275802825331
+0.06441891730823075,0.066159785,0.0017408674856230072
+0.05947358037378359,0.05701383,0.0024597520663933795
+0.05223949697460912,0.052134473,0.00010502409782193328
+0.055289622703802915,0.058802307,0.0035126839482661765
+0.05585007569698208,0.055273112,0.0005769637873541678
+0.05568996734859699,0.05961624,0.0039262742554927454
+0.05754521415317125,0.057760164,0.0002149499884837175
+0.049137473616059864,0.049059685,7.778829639776969e-05
+0.04831807728386143,0.041669395,0.006648682462932855
+0.034647362315221905,0.03398543,0.0006619338031255001
+0.03186459780164265,0.032163676,0.0002990780728290149
+0.03287256905654282,0.032068036,0.0008045325599035716
+0.037817263659921885,0.032334663,0.005482600686041117
+0.032697705220500924,0.029448507,0.003249197866837479
+0.03303371577306775,0.026260132,0.006773583803019796
+0.03298189889103381,0.022958767,0.010023132221998854
+0.030051381007538437,0.023201551,0.006849829719172119
+0.028008130101896764,0.024766073,0.0032420574710145013
+0.027595283258301087,0.027693154,9.787103201740199e-05
+0.031447155169473794,0.040950738,0.009503582724107597
+0.04737248884798972,0.059874106,0.012501617350559553
+0.04687688726663932,0.057903305,0.011026417429443748
+0.05326287178958844,0.05643387,0.003170999598846924
+0.053837904762495274,0.05340341,0.00043449370192360365
+0.0627665069467092,0.052217204,0.010549302822973769
+0.06247753845792891,0.056489028,0.005988510421334518
+0.06342249054566271,0.061160147,0.0022623433555687134
+0.06311657387530048,0.06294576,0.00017081308876712442
+0.06558900867411317,0.06500582,0.0005831921548527658
+0.06207125452935781,0.05625961,0.0058116447705038946
+0.06098506022160124,0.057626832,0.00335822794501852
+0.05992531122956568,0.05757593,0.0023493813196211466
+0.05257569349240544,0.0520392,0.0005364949150014203
+0.05151041357985622,0.046644736,0.004865677498494446
+0.03565062703849104,0.045241434,0.00959080708860132
+0.039961733426055225,0.043407053,0.00344531932930061
+0.04423378631976684,0.04166382,0.0025699645331247675
+0.04415782825700365,0.043927163,0.0002306653713377571
+0.04218522458929015,0.04245578,0.00027055666190194116
+0.04309070146750245,0.040405065,0.0026856366462591624
+0.029892080239833526,0.03696237,0.007070291079698868
+0.03774914955696225,0.037322827,0.0004263228734409791
+0.038545165020409,0.036365557,0.002179607558431995
+0.04022202058899759,0.03840633,0.001815689496878374
+0.03633194340496585,0.037453096,0.0011211529550023344
+0.03437254534843185,0.03462971,0.0002571646702029459
+0.031016555000305347,0.037098046,0.00608149139189703
+0.03136121833901386,0.03720733,0.005846113169384194
+0.03582586728287639,0.037902977,0.0020771100346952467
+0.036560353334447286,0.040933207,0.0043728533429895425
+0.037596696144544806,0.038719296,0.0011226003108384952
+0.039361691355711624,0.03636342,0.0029982722103659362
+0.04072792005177459,0.03808395,0.002643971856793971
+0.03730557454764757,0.036500186,0.0008053888195744471
+0.03840763078122268,0.038474422,6.679116697182186e-05
+0.037993184271290725,0.044530436,0.006537252125308091
+0.03951841127331142,0.04727841,0.007760000413109022
+0.055974900255341,0.04876913,0.007205768952507442
+0.0583840852816814,0.051358804,0.007025281174969061
+0.05965742618345769,0.055338576,0.004318849747414907
+0.061641776145048066,0.05767214,0.003969636887855454
+0.06280310432717304,0.0606006,0.0022025031904886194
+0.06183178607465907,0.059637696,0.002194090523740491
+0.06108061345800611,0.061585836,0.000505222654493126
+0.05996821404196074,0.0594539,0.0005143131384973756
+0.05880339748815737,0.054264475,0.004538922827999212
+0.058183890776897604,0.05085331,0.007330582486654455
+0.0469732320993035,0.048043013,0.001069780519715055
+0.04207075539744891,0.049925856,0.007855100894798864
+0.042324687034730336,0.048585955,0.00626126801883755
+0.041254566327709,0.042921275,0.001666708572727403
+0.028801421901093152,0.03740059,0.008599166492118213
+0.03660736234920653,0.03683479,0.00022742895347444003
+0.03743339818581027,0.0353577,0.002075699387630643
+0.041453141833097715,0.036002763,0.00545037921741702
+0.04704873107324412,0.040491063,0.006557667925460843
+0.04093455316302892,0.038912795,0.0020217576789629127
+0.04015614567394362,0.037928242,0.0022279034375678117
+0.040133360406727506,0.040238895,0.00010553411546258828
+0.04031939985360453,0.036878265,0.0034411344131405133
+0.039980159757326106,0.04171916,0.0017390012166996205
+0.0387049302974143,0.044316873,0.005611942656954291
+0.04511223949303303,0.045584515,0.00047227524409618193
+0.043190644130628814,0.045726817,0.0025361729706113445
+0.04208684900317235,0.045124535,0.0030376855143542797
+0.03732736115923156,0.041853394,0.004526033200118643
+0.037793641435669136,0.040761106,0.0029674642805593496
+0.03718736195198095,0.03825236,0.00106499916681254
+0.041419835472625934,0.03910344,0.002316394532245837
+0.04276171240895846,0.04306001,0.0002982960274829638
+0.04270664257903214,0.040726237,0.001980405579997256
+0.04230705386505672,0.038552456,0.0037545982609803324
+0.040898854979003696,0.038158957,0.002739898063863544
+0.037758458671161815,0.039557576,0.0017991175083425792
+0.03525535731672367,0.04237006,0.007114701279410517
+0.04485534523888961,0.046157442,0.0013020967944012557
+0.04395577621902634,0.045698732,0.001742955918653713
+0.044704219657653664,0.04577121,0.0010669917280732646
+0.04228766425114984,0.044154543,0.0018668791784632738
+0.041939632336550896,0.045191836,0.0032522032755077437
+0.0447615017856193,0.045857657,0.0010961549614834365
+0.04566850175295422,0.043670043,0.001998458403688168
+0.03731058409648895,0.037522618,0.00021203363102913209
+0.03798695001856857,0.03450335,0.0034836018468576008
+0.03802785965216444,0.031360935,0.00666692423236654
+0.030863957898739303,0.029521724,0.0013422336895498876
+0.026285362259432142,0.029346755,0.0030613925150191137
+0.03028928824675338,0.029089777,0.0011995114476706231
+0.035006283288519915,0.029591186,0.00541509731642538
+0.03569799767158848,0.0304038,0.005294197362884105
+0.03293770835141605,0.03175483,0.0011828793619102843
+0.034017339437120854,0.034240607,0.00022326773512989367
+0.034233104932776065,0.033739027,0.0004940782968908264
+0.03243749414970937,0.034437664,0.0020001697034591204
+0.03242244647930063,0.03456319,0.0021407447557648326
+0.03800798305340357,0.036111202,0.001896780962424946
+0.045010278200866984,0.040308107,0.004702171510221766
+0.043178429223717174,0.04014977,0.003028658546627483
+0.04126538423321673,0.039238304,0.002027080333451718
+0.040929716736455825,0.03973887,0.0011908455792864828
+0.03795886700299383,0.04069405,0.002735183487862343
+0.040767097039872746,0.041851863,0.0010847662251647905
+0.05374936015777912,0.05135152,0.002397838993600271
+0.06078822424028025,0.058302227,0.002485996832586386
+0.06078446669484434,0.062324747,0.0015402807483548206
+0.05972545850277818,0.060978763,0.0012533043026837012
+0.06113500297720299,0.058361605,0.0027733981674419456
+0.06085767623349078,0.057489846,0.0033678303317631053
+0.05944336014029421,0.056373574,0.0030697863006297482
+0.05920864765819007,0.058161683,0.0010469642775862778
+0.06276870574095425,0.054507025,0.008261681154753536
+0.05921884565042771,0.05399648,0.005222364649050605
+0.04884538189390095,0.045767542,0.003077839919118003
+0.03147772318441126,0.03869118,0.0072134585050895456
+0.033523146120142344,0.036343332,0.002820186259914037
+0.03382226889656628,0.033008676,0.0008135928742750986
+0.025916887994501252,0.02960318,0.003686291549709182
+0.02677583230097451,0.02576889,0.001006943186713835
+0.026950378275873155,0.026703056,0.000247322327854127
+0.023902772031093394,0.023076998,0.0008257739612110016
+0.017029506900702776,0.024315197,0.007285690120066343
+0.020480473525834448,0.029324543,0.008844069205212229
+0.03647204221464314,0.03465547,0.0018165718135944794
+0.03597227785436904,0.036074337,0.00010205876381600559
+0.03573764477689908,0.033145893,0.002591751411754349
+0.03532275427554593,0.033045806,0.002276948284849978
+0.03540908743749582,0.033338223,0.002070864784822102
+0.03505685635846993,0.033540424,0.0015164323989762946
+0.03482721489225775,0.034739826,8.738901769071716e-05
+0.03511741381716141,0.034095455,0.0010219588560999304
+0.0372360556286753,0.03360311,0.0036329462093294476
+0.03472958837159599,0.028465493,0.00626409572072948
+0.018598821224027003,0.02493869,0.00633986832076994
+0.022040486565926,0.024086704,0.00204621791174181
+0.020471680533068422,0.022693168,0.0022214878388473955
+0.02056196525102818,0.02306937,0.002507405286968113
+0.02835094384094473,0.025142489,0.003208454839789831
+0.035637772701977696,0.028597213,0.007040559374093022
+0.03554296058387793,0.03388361,0.0016593517062190866
+0.042156813624416374,0.037508428,0.004648385527645134
+0.040911105304535365,0.038491715,0.0024193905587754014
+0.040911810177961215,0.04163514,0.0007233305986730013
+0.040927442584128074,0.041625045,0.0006976026557973108
+0.03776879567881303,0.042518523,0.004749726911585761
+0.039931220386216396,0.04199675,0.0020655305943992203
+0.042021597327710276,0.04048419,0.0015374073405276592
+0.038957763568547216,0.03621906,0.0027387031475572254
+0.03125647914225419,0.034123372,0.00286689314430396
+0.03162996436862087,0.029983334,0.0016466301253232965
+0.023521827291059123,0.02691509,0.0033932628675226104
+0.02355181388007122,0.02596107,0.002409255510106508
+0.02711769984283744,0.026521614,0.0005960860214501498
+0.02757749796823317,0.027310057,0.00026744135633760893
+0.02703943707371261,0.0270766,3.7163045758941554e-05
+0.02689801920526113,0.023628682,0.0032693373071440643
+0.02415890529866467,0.021467272,0.0026916331064249094
+0.023444916812690397,0.023329431,0.00011548562160362819
+0.023449998704920746,0.022091987,0.0013580120934352652
+0.023278562571429275,0.023570674,0.00029211096880529114
+0.026470272159194452,0.02513533,0.0013349413033480473
+0.028412563077176097,0.02548934,0.002923223472202304
+0.0246998903458441,0.0220796,0.002620290324601003
+0.024405047323531107,0.02382394,0.0005811080597104591
+0.021731726498299943,0.024459561,0.002727834834760322
+0.020820472811693247,0.025871564,0.005051090891128485
+0.02117111007273773,0.02299184,0.0018207297235669738
+0.020521291306375315,0.021433145,0.0009118535014402372
+0.020800198379930718,0.02053504,0.0002651577331392596
+0.022260858573863736,0.018747808,0.003513050162146321
+0.015827905698003842,0.013777979,0.0020499269797230497
+0.014915588615372401,0.012512224,0.002403364820316058
+0.013010144277442124,0.011922639,0.0010875054141170053
+0.013105030172043057,0.012067861,0.0010371692483355718
+0.01318074207317961,0.016366076,0.0031853336511837166
+0.01742316470321742,0.020600172,0.0031770070565071973
+0.01699304304567201,0.020653095,0.0036600520506777055
+0.01721690140954267,0.021538256,0.0043213543266891336
+0.0316279024976488,0.025857732,0.005770170797705254
+0.028015320225421563,0.03165208,0.0036367615323623266
+0.03549734633553552,0.03535003,0.00014731791008042866
+0.036524454090925515,0.038351096,0.0018266421219384071
+0.03725280558581737,0.041105762,0.0038529565382442177
+0.03836060195007292,0.041125495,0.00276489303669962
+0.04121939063875817,0.03854612,0.002673271753479471
+0.04096628922912306,0.03709004,0.003876248485772074
+0.040922086788868765,0.0385949,0.0023271852271317048
+0.04149350101924071,0.037668,0.003825500112534852
+0.028302652505727666,0.032898862,0.0045962094091454575
+0.02822943381155493,0.028823543,0.0005941095284127985
+0.023243653060919408,0.02591699,0.002673336831801768
+0.02594372799589382,0.025404321,0.0005394069661115233
+0.024524149428239373,0.022699697,0.0018244524850755013
+0.020737205764098366,0.020094747,0.0006424590403272708
+0.0173311050463219,0.01806565,0.0007345449697475116
+0.017802145332004304,0.020098165,0.0022960193456156297
+0.017568615736507417,0.018526938,0.0009583220760593404
+0.016339619646931924,0.018597657,0.0022580372140156846
+0.01756956874093891,0.018260228,0.0006906587753546141
+0.01932897153059826,0.018387815,0.0009411565468727123
+0.019329742546344942,0.017469304,0.0018604388638984622
+0.015317342719831368,0.01576202,0.0004446771826363601
+0.01408833442500835,0.014677379,0.0005890448553204
+0.014644858678013612,0.0148184765,0.0001736178350145324
+0.014647892359188378,0.014032727,0.0006151652517827153
+0.014127855866556528,0.017662741,0.003534885377282736
+0.015834084468925248,0.018922267,0.003088183012759437
+0.019698776308209057,0.020056441,0.00035766511806810397
+0.019705026506068188,0.020535935,0.0008309082103949011
+0.017201875256508514,0.018785015,0.001583139492064789
+0.019679422971982732,0.019871244,0.0001918212350418419
+0.01980144286329428,0.021113142,0.0013116995078833946
+0.019681674827070568,0.025874157,0.006192481677798893
+0.03583418402456241,0.034767944,0.0010662396588225903
+0.03595829739896146,0.03621565,0.0002573543814054363
+0.03704236854619848,0.037161812,0.0001194436400426685
+0.042335672377446315,0.038438283,0.0038973894704371903
+0.040885062788538436,0.039021544,0.001863518630079726
+0.03989809514067231,0.041292757,0.00139466165521087
+0.03985548549482548,0.04666812,0.006812634233739734
+0.050613189656181466,0.049198464,0.0014147260970307704
+0.05029952992557747,0.0502734,2.6130125515291813e-05
+0.05280443104151422,0.048057467,0.004746964296137635
+0.04402767242157767,0.044151094,0.00012342138921906526
+0.04475205048895459,0.044634566,0.00011748477793316336
+0.04771377086700435,0.0441328,0.0035809719568633616
+0.043956786060284185,0.042615376,0.0013414096474156853
+0.0441843459147849,0.043553542,0.0006308035690226477
+0.04146533345396257,0.04246462,0.000999287911107774
+0.05430724536844901,0.042482637,0.011824608499495307
+0.04607466091480952,0.044555057,0.0015196040746281725
+0.0456322107342816,0.044322807,0.001309403392467559
+0.04386617772903719,0.045366663,0.0015004857567282662
+0.043885704605348894,0.044604544,0.0007188389911572252
+0.05106853652335963,0.045461584,0.005606952640789364
+0.04717994673139019,0.042986225,0.004193721394600107
+0.04240067860692834,0.040271297,0.0021293815097222224
+0.04245558319863682,0.040637538,0.001818045361608317
+0.04258049509011792,0.04131708,0.0012634158738760864
+0.027972332383612634,0.032919407,0.004947074507256507
+0.028416417406591687,0.031494353,0.0030779355599553256
+0.03162519117255475,0.029900009,0.0017251823600080221
+0.03539937209557122,0.030348916,0.005050456488834086
+0.037752196150520764,0.031473435,0.006278760688999616
+0.025724104750322902,0.027761834,0.0020377289919380308
+0.029224491211248378,0.028361376,0.0008631148362884325
+0.030655368199823545,0.03193355,0.0012781815917509327
+0.032743806520627645,0.03271949,2.4317333625463455e-05
+0.032955702933816174,0.033574644,0.0006189415423591346
+0.03262207211035138,0.03569286,0.0030707873306905636
+0.034406057273698935,0.03948589,0.005079833144592157
+0.03960113200538358,0.040294115,0.0006929824949006153
+0.03581655253352993,0.037929688,0.002113135115481682
+0.03504621086042565,0.034578633,0.0004675782970730638
+0.03550370216510475,0.0343018,0.0012019033744114643
+0.032829214282514514,0.033486523,0.0006573084516506775
+0.02997166550218715,0.028610345,0.0013613205260003987
+0.028804643636652895,0.025184536,0.0036201072838992557
+0.030014501523757897,0.027312947,0.0027015540865907295
+0.029131757068006803,0.025657719,0.0034740380668328297
+0.02214381125854761,0.018681211,0.0034625998614957985
+0.019511639659045992,0.017332051,0.002179588709710894
+0.016219332202908374,0.017608777,0.001389444485667371
+0.015674625273957913,0.018261598,0.0025869731491654467
+0.02486069356293886,0.020642241,0.004218452099873711
+0.02478915787548266,0.020994125,0.0037950329414053983
+0.02611179220980435,0.024868587,0.0012432051778438619
+0.0261021539984629,0.024594264,0.0015078898935005497
+0.023769273207638306,0.023351315,0.0004179577986932227
+0.025487773929160393,0.021933796,0.003553978044908798
+0.02892905128168274,0.025250705,0.0036783463226478207
+0.028491138584451778,0.028818449,0.00032731042103280317
+0.02916476460330605,0.028455563,0.000709201713730092
+0.028743016217344444,0.027292185,0.001450831685655754
+0.02170870859082409,0.024039818,0.0023311093831472757
+0.021673443706857302,0.022605492,0.0009320480952390645
+0.018215229957297036,0.020991689,0.0027764586369250326
+0.018738285440948146,0.018979529,0.00024124347791419642
+0.02129714003028694,0.021945668,0.0006485283541458539
+0.01960832997443258,0.022561872,0.002953542403559096
+0.0170096359885506,0.021769764,0.004760127913279118
+0.01697019380249071,0.02095627,0.003986076594218731
+0.0156852396338517,0.019708805,0.004023565152353591
+0.015675136853718626,0.021547323,0.005872186239099634
+0.025687991578054296,0.025164759,0.0005232327914951908
+0.026218335327387116,0.02614223,7.610506999518665e-05
+0.0330739588360923,0.03130508,0.0017688804190295407
+0.033231764129134214,0.033110633,0.00012113063666442658
+0.030716215405323013,0.03114401,0.000427794497750298
+0.03137979788844593,0.028483624,0.0028961742496968063
+0.03140900998728112,0.03018334,0.0012256704957945702
+0.03395110725740088,0.031885657,0.002065449797903428
+0.034036267317740475,0.035091955,0.001055687896998371
+0.033819753344494705,0.031391624,0.002428128983218078
+0.02774060586279564,0.027815891,7.528556698627523e-05
+0.02899950264880783,0.029974958,0.000975455279253655
+0.018513693202171746,0.023507742,0.004994049009050903
+0.018557707813982305,0.021272618,0.0027149105095822246
+0.02146010048724055,0.022625566,0.0011654650416290796
+0.021674819169956058,0.024134254,0.002459434913081319
+0.0216721692746455,0.02355835,0.0018861810052817549
+0.021869044824065674,0.024132779,0.0022637340440135115
+0.025198624910620138,0.023593172,0.0016054524796280112
+0.02522024683658158,0.023327049,0.0018931979686406773
+0.02894354858328608,0.028598845,0.00034470357825067827
+0.02910130001374881,0.027825255,0.0012760450668017134
+0.030526892090554578,0.026926292,0.003600599984045369
+0.030527511451799348,0.026794374,0.0037331374626941236
+0.02723117307816661,0.02374302,0.0034881527075640018
+0.029079764096696232,0.027817965,0.001261799542863224
+0.029420430850985526,0.028917229,0.0005032020479469289
+0.028176991478248047,0.024340088,0.0038369039303497547
+0.023804600982193082,0.020675922,0.003128679169539541
+0.023746032699958345,0.020920524,0.002825508326307794
+0.013659472369737666,0.016138155,0.0024786826435851637
+0.013790298435201824,0.017358927,0.003568628620991528
+0.0130900705202774,0.024461137,0.011371066610579114
+0.030543476578067663,0.032809727,0.002266250315834162
+0.03163863648035167,0.034305096,0.002666459192255749
+0.03262067431523225,0.030059917,0.0025607574166240446
+0.03095726350395443,0.031236527,0.00027926398368118346
+0.03086953481674575,0.031540986,0.0006714513337574071
+0.030735508077875926,0.028950565,0.0017849435146015426
+0.033442184056626426,0.033687346,0.00024516162694825094
+0.03904826898097986,0.038564112,0.0004841569435595841
+0.039037005819971965,0.036774263,0.002262743034060405
+0.04032922927595392,0.035652157,0.004677072356712969
+0.0235835946813447,0.028138978,0.00455538372544222
+0.02448592483423329,0.024436928,4.899650238133005e-05
+0.024671076378573572,0.0249004,0.00022932276989063097
+0.023519717774143994,0.02087666,0.0026430586937578326
+0.023541071392982733,0.021332903,0.002208168559163344
+0.02215187973614668,0.02490316,0.002751279852428682
+0.021400783304764838,0.02077565,0.0006251336081763217
+0.01502822272726617,0.019933114,0.00490489110103526
+0.02094757196202944,0.020549037,0.00039853539958666084
+0.01887398097608832,0.01864073,0.000233250446064745
+0.019187080099636527,0.02013276,0.0009456794863400737
+0.021892821790557744,0.022917015,0.001024193687457202
+0.021931473249307883,0.02104506,0.0008864124209797507
+0.021962108187768375,0.021844693,0.00011741565952054153
+0.020498365464982748,0.021123182,0.0006248165635492804
+0.020515555314233793,0.017083498,0.003432057596257223
+0.020617382382524772,0.017929532,0.00268785074867086
+0.021339462828919097,0.018096508,0.003242954370662375
+0.017820939554334662,0.020984838,0.003163898231028535
+0.018157848849364843,0.025817346,0.007659496978453074
+0.03435572220894103,0.02906588,0.005289841284477757
+0.03199105066588886,0.029887216,0.002103834500227046
+0.03224564794761756,0.029672077,0.0025735710219822253
+0.03177149291151173,0.03259693,0.000825437949961351
+0.032857615336860754,0.033038292,0.00018067674330320138
+0.03282691325843784,0.032116484,0.0007104293614670909
+0.03232517840420579,0.030927842,0.0013973359212813286
+0.03236593830978067,0.02678491,0.005581028420678688
+0.033011100450586014,0.026451018,0.006560082742999726
+0.03685540789615054,0.026159473,0.010695935132612182
+0.01691120619278848,0.022753056,0.00584184994596541
+0.01759071431315477,0.021898199,0.004307484559649872
+0.018530178477502653,0.02064525,0.002115071157478502
+0.019555401911434112,0.020394243,0.0008388413885269778
+0.021138694712453446,0.021466624,0.0003279292792743825
+0.020355277624397785,0.017720941,0.0026343361702256506
+0.020447317134296462,0.018596306,0.001851010691082046
+0.02048564722041648,0.017554715,0.002930931944652014
+0.020127596353337197,0.016283829,0.0038437675881833125
+0.013176773090055488,0.015556658,0.0023798845967740786
+0.010620383545730172,0.013939244,0.003318860195603313
+0.010526037804968481,0.013425217,0.0028991792051123334
+0.01188444896507506,0.0132236425,0.0013391935182785544
+0.011271008916118999,0.009895535,0.001375473730185886
+0.007847027363847767,0.0074393507,0.0004076766545286527
+0.008366150235598158,0.010974234,0.002608083734447885
+0.009614939200377313,0.015689395,0.0060744561677218995
+0.01624603744778833,0.016636413,0.0003903751429537826
+0.015951052564130278,0.016625846,0.0006747932406802465
+0.017494927313530213,0.016963555,0.0005313727672932207
+0.017621603169433755,0.017682713,6.110935569556344e-05
+0.017552530123511025,0.017688276,0.00013574612267904657
+0.016724868539675416,0.021584325,0.004859455999032317
+0.018663876157393806,0.024488434,0.005824558038124688
+0.024236202215474404,0.026653776,0.0024175737298314202
+0.024354839320057664,0.025243921,0.0008890818853437565
+0.025749968624385725,0.021221073,0.004528895280035864
+0.0208789035106201,0.024226945,0.0033480413829784575
+0.020996532954352623,0.024529347,0.0035328142418687286
+0.020611607960440172,0.023458123,0.0028465152466521128
+0.021655605200212882,0.025383266,0.003727660488802506
+0.03277567787707486,0.030066058,0.002709619837409638
+0.035488425427301434,0.03463347,0.0008549565907554901
+0.03587683523313352,0.03533267,0.0005441666604692613
+0.03937371890606498,0.033494342,0.005879376787563319
+0.0401716688606722,0.03526308,0.0049085887107832085
+0.03751598299314042,0.03403234,0.0034836419003154845
+0.0371403723038186,0.036667284,0.00047308867940797084
+0.03611981242027583,0.03842421,0.0023043963399857065
+0.035958750648678484,0.042475425,0.006516674058257399
+0.039467714183978236,0.042055447,0.0025877324705799454
+0.03183829372107387,0.038283158,0.006444864372617001
+0.040838315091682675,0.040733956,0.0001043592911493807
+0.0404218045825363,0.04282354,0.002401733601629652
+0.03641378059797618,0.043063145,0.006649364532896544
+0.03381331516605139,0.04251298,0.008699664192383286
+0.03494569849062709,0.04119053,0.0062448326141759936
+0.04196553996055374,0.03859952,0.0033660190388465835
+0.041912512705261036,0.037780326,0.004132186845475956
+0.041638603651699836,0.03402214,0.007616462403712089
+0.04096199830651586,0.033976957,0.006985041104558158
+0.040844947622282704,0.035369467,0.005475480632050236
+0.025562661849446753,0.031029213,0.005466551370434305
+0.02960292635310042,0.031008014,0.0014050881023372416
+0.028692434569608044,0.03169932,0.0030068838691603428
+0.02691391134882432,0.031071689,0.004157777631039802
+0.028578796681189525,0.025548184,0.0030306123906612276
+0.02892392689312444,0.026765404,0.002158522624025206
+0.028888214954205918,0.029526556,0.0006383409565006021
+0.029010542802706513,0.02811123,0.0008993122207076876
+0.029371033928108144,0.02965981,0.0002887756165743591
+0.02939683565313171,0.02572908,0.003667754991000402
+0.028695442607857075,0.025649333,0.00304610923514494
+0.02841867535028763,0.024143443,0.004275232838729097
+0.0304560767384216,0.02542397,0.005032106664960068
+0.028280182961378443,0.028711757,0.0004315737299581887
+0.028693867459958992,0.026344538,0.002349329724973641
+0.026894591470215213,0.028005574,0.0011109824283386353
+0.028940178765580835,0.030639024,0.0016988456857941724
+0.033481110298674614,0.032631323,0.0008497875571661304
+0.03843250840703728,0.035425708,0.003006800709168936
+0.03757372088160308,0.03784519,0.00027146973285881865
+0.03840146522667516,0.03509315,0.0033083141937505084
+0.034038724598854625,0.031992164,0.002046561089724147
+0.03167691431742019,0.032839146,0.0011622311939685909
+0.03330370410210637,0.033004966,0.00029873846895245304
+0.03348090202715574,0.032941356,0.0005395457258480646
+0.03309416794415354,0.032558203,0.0005359652006232674
+0.04637366202072685,0.037439033,0.008934628631635355
+0.04365888789769941,0.0410069,0.002651987527578406
+0.036628327453174465,0.040260702,0.0036323749184228246
+0.034617425232909886,0.040829677,0.0062122519018423875
+0.03746460774453022,0.040442422,0.002977814287826043
+0.03610005848891313,0.034974992,0.0011250662136750925
+0.03558013970990556,0.032583285,0.002996854586795744
+0.03536463286574838,0.03523216,0.0001324726253366243
+0.03558474154340539,0.03407681,0.0015079316602877174
+0.0353645070500994,0.02981151,0.005552996233882931
+0.020112923076452134,0.024630832,0.004517908478079917
+0.018775857559951037,0.020609697,0.0018338397670667472
+0.02625530891395286,0.024517458,0.001737850981719049
+0.02574705834468274,0.026567405,0.0008203467450532444
+0.02398037133551833,0.022755913,0.0012244578991055174
+0.02373813474120797,0.023523813,0.0002143216276377577
+0.023314970450881226,0.024060953,0.000745982957598465
+0.02333262853767041,0.021691067,0.0016415613933956977
+0.023299140579089377,0.022454375,0.0008447651779501172
+0.02382245865674205,0.022942198,0.0008802602163095023
+0.024631545770700796,0.025641123,0.0010095770621935292
+0.026956033314010128,0.02664997,0.00030606275274418226
+0.020551465690026766,0.02047972,7.174560416746759e-05
+0.019598404503673825,0.018806603,0.0007918016978209347
+0.01980290794676964,0.02089784,0.001094931271608427
+0.020529882374342463,0.0230862,0.0025563171625771312
+0.019732314097730592,0.021949582,0.002217267704160735
+0.019203721391676982,0.01988613,0.0006824090753802456
+0.019242669441205847,0.019953342,0.0007106727134162313
+0.019518791696848926,0.023353387,0.003834594973502102
+0.0229409176382926,0.024257408,0.0013164908167216278
+0.02037445779841836,0.022287795,0.0019133375217348751
+0.0199313759850644,0.024346221,0.004414845253310311
+0.0228556396792345,0.023251923,0.0003962831219024715
+0.020893644492934918,0.021009183,0.00011553806452872795
+0.019834675120379595,0.020911995,0.0010773202011326276
+0.020904402016407923,0.01962392,0.001280481694943384
+0.020904220324036823,0.020430127,0.00047409316527579834
+0.020940539365377448,0.019241367,0.001699172829952262
+0.021911548137839368,0.018842768,0.0030687802137690096
+0.016111498316326113,0.01725235,0.0011408519097185418
+0.01633967983555923,0.016963001,0.0006233215050684415
+0.01645767275168308,0.015537871,0.0009198017038286564
+0.015343970309169824,0.014797993,0.0005459773048477716
+0.015828024866783218,0.0139475465,0.001880478384697036
+0.01588108842080842,0.012404441,0.0034766475186349018
+0.015082369713128825,0.016045837,0.0009634670186626712
+0.01698692080519778,0.018232368,0.0012454471275986992
+0.01703290401648305,0.019394625,0.0023617209618208602
+0.01724855949421506,0.018047232,0.0007986726866187552
+0.01684311398992703,0.019172316,0.0023292024271710163
+0.02161125577673831,0.019270545,0.0023407109050504193
+0.02214817507794772,0.019694796,0.0024533792459097946
+0.021472853758453574,0.017930401,0.003542452269314971
+0.023430314132249844,0.019059904,0.004370410212553036
+0.02435927600704885,0.022505665,0.0018536108090803673
+0.023026220138909398,0.021294463,0.0017317567130346878
+0.019616186257927645,0.019224474,0.00039171205136083465
+0.01798859735952138,0.018995034,0.0010064362175631614
+0.01866618624278844,0.020688726,0.0020225393926209152
+0.01825430988395322,0.022354988,0.0041006784973133745
+0.03126724377058056,0.025519714,0.005747530011158256
+0.03120951502958545,0.02657313,0.004636384168660728
+0.03156856890965643,0.031013466,0.0005551024918669725
+0.039552549261779986,0.03477553,0.004777020204992495
+0.04132448615196805,0.035128683,0.006195803300176668
+0.04123783314668489,0.03478117,0.006456664000385526
+0.041582838619386296,0.034378596,0.007204242969190221
+0.04359764224266671,0.034760736,0.008836906313654413
+0.04338426467853556,0.034994774,0.00838949111181269
+0.04302015293491124,0.036342815,0.006677338370206343
+0.03443455561190106,0.031438954,0.002995601437382478
+0.03418662523670202,0.030789794,0.003396830836367659
+0.038565475589162075,0.025268363,0.013297112754112446
+0.02850960606785776,0.024659032,0.003850574065766353
+0.027114103155487023,0.022605563,0.004508540572874985
+0.02706186421335392,0.021155205,0.0059066595894163125
+0.02692996890943722,0.021862999,0.0050669703046627435
+0.023570978814462913,0.02188976,0.001681219586829437
+0.025734020800674596,0.02473637,0.0009976499093419695
+0.03693223833999776,0.029638814,0.007293424531437387
+0.03713532824102284,0.033421822,0.0037135063487613376
+0.03645171361874778,0.03192107,0.004530643549673148
+0.029703480857498535,0.030624807,0.0009213260234523929
+0.03370684906687635,0.02955642,0.004150429366492209
+0.034715676412200316,0.034530748,0.00018492873034416102
+0.035397581630676654,0.03476479,0.000632792585819629
+0.035453012354089354,0.034034338,0.0014186745056644426
+0.0337938709407341,0.031298537,0.002495334133435438
+0.033789926537922725,0.02792938,0.005860546001843318
+0.020724756237608662,0.024130125,0.003405368361132869
+0.02803304297868428,0.024699075,0.0033339678311747056
+0.027773564472949774,0.02401694,0.0037566253693464106
+0.027355760502648454,0.024171317,0.00318444350643168
+0.02254597846100357,0.022725757,0.0001797787504431922
+0.021801438118309376,0.021790076,1.1362071127292428e-05
+0.021708542871466882,0.021052714,0.0006558284342205595
+0.021509463622358265,0.025127169,0.00361770512244421
+0.026263745016337114,0.02956369,0.0032999445880644747
+0.025400675517773145,0.028130861,0.0027301854814534253
+0.0285161891791678,0.024920903,0.003595286032900862
+0.024332193309686022,0.021353891,0.002978302190325098
+0.024185895783290844,0.021093927,0.0030919684594726375
+0.024103135161308457,0.021414267,0.0026888682620803614
+0.02416061287784047,0.01903539,0.005125223230952689
+0.022848619119584506,0.021458577,0.0013900417549013548
+0.02307787013639472,0.019992022,0.0030858482926037108
+0.022862740395276072,0.016519317,0.006343422991840365
+0.019235031495495568,0.013763448,0.005471583272023926
+0.022674856670746375,0.018645888,0.00402896847630458
+0.019596837269215257,0.019963665,0.0003668276648238593
+0.01892157194496809,0.022600474,0.003678901891096247
+0.021496492591022612,0.025038004,0.0035415113304861773
+0.040021228399780166,0.028180419,0.011840809863713157
+0.041711921643602164,0.039815065,0.00189685712395838
+0.04128415504832593,0.038019184,0.0032649710251840686
+0.04137501503492714,0.04362567,0.0022506563815939337
+0.04139712610543982,0.043069974,0.0016728474825499842
+0.03855611307384541,0.038133223,0.00042289046408703485
+0.03637565018389986,0.039381675,0.003006025238291757
+0.03981194274567593,0.040926214,0.0011142715618706889
+0.03840172105722735,0.037035443,0.0013662781684906228
+0.03836512786482072,0.035385724,0.0029794037077257654
+0.023454261155936622,0.030142413,0.006688152296331025
+0.020194953570294678,0.026292058,0.006097104137611092
+0.021700316841884087,0.025396138,0.003695821587757636
+0.031247430709313587,0.02829933,0.0029481009069196734
+0.033007005923687695,0.03210997,0.0008970375594489557
+0.033638135797060174,0.031234644,0.0024034914436704344
+0.033788697266490135,0.032612517,0.0011761797904082869
+0.03093971996375325,0.028359458,0.0025802621132970105
+0.030831771065603173,0.027250063,0.0035817083913191917
+0.031107503716856295,0.028289003,0.002818500419169718
+0.029674237226470772,0.026964204,0.0027100328405941163
+0.026499490036485284,0.023211807,0.0032876830239273007
+0.026764532249012016,0.022365637,0.004398895125427269
+0.019809511448233567,0.01942298,0.00038653142282291456
+0.01603625752893978,0.014694519,0.0013417381879478052
+0.015829822350307627,0.015503433,0.00032638974861733464
+0.01588975499439802,0.019045312,0.0031555569631997113
+0.022527148916911845,0.023977323,0.0014501735870125244
+0.022654951442073357,0.028242787,0.005587835904170502
+0.022662092660676352,0.023929909,0.0012678162109743436
+0.026254470577465595,0.023761252,0.0024932186361423143
+0.026063882200448522,0.027289053,0.0012251712247443106
+0.03189979185800602,0.0312844,0.0006153925273900199
+0.031026337191701052,0.03334903,0.0023226925281285074
+0.03091422548970706,0.032143958,0.0012297324232148459
+0.03088449252713255,0.030227263,0.0006572300003819843
+0.030713899830895095,0.028932469,0.0017814308652454904
+0.02156641802866221,0.024227947,0.0026615289680266344
+0.021576037329538732,0.021257935,0.0003181022376855906
+0.0219640837041689,0.020108862,0.0018552218554569316
+0.021885514474016272,0.018569833,0.0033156818063078755
+0.02181879075965684,0.01865253,0.0031662603726128856
+0.014916759308145781,0.014086329,0.000830429929958125
+0.014626180008503591,0.015567272,0.0009410919617088686
+0.014575156564049991,0.016281141,0.0017059844041535533
+0.015137708918465533,0.01582824,0.0006905317443476541
+0.014851731494970058,0.013984181,0.0008675505080888019
+0.015433262392056753,0.013559829,0.001873432948363592
+0.015418070961547032,0.014342668,0.0010754034265996366
+0.015312704539371672,0.013955836,0.0013568683550488382
+0.01404007912643828,0.01177113,0.002268948750874182
+0.013555800645848484,0.011431022,0.0021247790299856375
+0.013622908911250434,0.012316458,0.0013064509840234138
+0.013819250518137993,0.013209415,0.0006098358497567784
+0.013902888480990682,0.012186186,0.0017167020928557254
+0.014801426134041147,0.014079854,0.0007215722417147925
+0.014721494685277819,0.014738252,1.6757701172948752e-05
+0.013534944852547606,0.01471042,0.0011754749587607784
+0.020160402193784805,0.017125063,0.003035339549303146
+0.019157631600496768,0.017147755,0.0020098763501620286
+0.019424695151814057,0.017320316,0.0021043788669191134
+0.01868701729708842,0.016266806,0.002420211245953357
+0.020062520977736052,0.01584223,0.004220291849852141
+0.01986298863504071,0.014935973,0.004927015534676501
+0.020101551071426197,0.018248567,0.0018529837137668571
+0.01942551427505139,0.017938176,0.001487338105059896
+0.019758335189509715,0.015190305,0.00456803000121149
+0.01985198199912551,0.01547128,0.004380702378001242
+0.014235090979415948,0.013204926,0.0010301652858443807
+0.01280753463228868,0.0109953955,0.001812139150702224
+0.013584207185680089,0.011932256,0.00165195148544949
+0.013579390942490282,0.009098208,0.004481183364427271
+0.012516336678973214,0.01036656,0.002149776719025151
+0.013148296974541092,0.009739826,0.0034084705411805156
+0.01441723722957058,0.010586994,0.003830243460759355
+0.016598417610945642,0.01460852,0.001989897527816236
+0.016863053189000634,0.017417818,0.000554765118875953
+0.016465355619275663,0.017060068,0.000594711885368731
+0.012623569432677666,0.021559915,0.008936345141349396
+0.03561552459847256,0.027600018,0.008015506290905916
+0.03614987764367236,0.032326847,0.0038230303288377676
+0.03624740079988901,0.032107823,0.004139578202862183
+0.03625018164807219,0.03260219,0.003647990676697681
+0.03656000241027887,0.032152835,0.004407167130575727
+0.03576249477206763,0.032502055,0.0032604396039157754
+0.034343551788175775,0.03219873,0.0021448209319955835
+0.03549726983784009,0.030847842,0.004649427964075095
+0.0354769222776225,0.029829057,0.005647865344100278
+0.03555914170058936,0.026463702,0.009095439379536809
+0.014242088732361135,0.02243638,0.008194291653991404
+0.014336688008373906,0.0164034,0.002066711399489711
+0.014262912459141049,0.014968105,0.0007051922013699679
+0.017591493212564948,0.018382365,0.00079087167145395
+0.017278961628789506,0.01616915,0.0011098122001834722
+0.0173405898221904,0.015245222,0.0020953682669573974
+0.01725783847109828,0.014461069,0.0027967691032722945
+0.018265262966826738,0.018460626,0.00019536281578224832
+0.021703260540927735,0.022902574,0.0011993138492452232
+0.024463533008638863,0.02258762,0.0018759132867493672
+0.024830294643041085,0.024319405,0.0005108899068798529
+0.023992931345959936,0.025144175,0.0011512433490550172
+0.02523368399998233,0.026247054,0.0010133703384728708
+0.024078410109298183,0.022408376,0.0016700345927643315
+0.023562362116753693,0.023017079,0.0005452834786769112
+0.024043550549989377,0.02402234,2.1209775453244484e-05
+0.024031547233664477,0.022164663,0.0018668839337463022
+0.02165414312618767,0.019328041,0.0023261021240333184
+0.017166258023572044,0.015132445,0.0020338131128669543
+0.01577756012027551,0.017281674,0.0015041137283534865
+0.016752608339890274,0.019765038,0.0030124297033703
+0.015562536652533087,0.016431626,0.0008690892799219762
+0.014755325174624913,0.014116451,0.0006388740304064684
+0.014566702391770268,0.015534107,0.0009674042502375597
+0.018432687846681527,0.016832348,0.0016003398874015126
+0.017467669747557597,0.017157227,0.0003104429466390182
+0.017975357312341973,0.014558012,0.003417345646401688
+0.017834166836171506,0.016035292,0.0017988745385698057
+0.01930599248264292,0.015742797,0.0035631950781152555
+0.01884593264083675,0.018295145,0.0005507879785757418
+0.016207026015830604,0.0144669,0.001740125637364951
+0.015976063255659492,0.013347704,0.0026283592921413496
+0.016724684242462446,0.015147813,0.0015768715779536265
+0.016921823300838523,0.013152973,0.0037688505057693056
+0.015364981991224196,0.011549063,0.0038159189643191364
+0.015324505775427275,0.011769106,0.0035554000951403906
+0.01369646121526956,0.009870704,0.003825756951820844
+0.014246603203141917,0.008715146,0.005531456981921423
+0.013016115639228606,0.010378875,0.0026372408008764024
+0.027140528210533466,0.021388391,0.005752137177718487
+0.027214363447839434,0.02683973,0.0003746340493504356
+0.029767489239247043,0.030897895,0.0011304056349680826
+0.03013266768020773,0.032839708,0.0027070403500161176
+0.030017271144010933,0.02951851,0.0004987618603490909
+0.030346410645734793,0.030993925,0.0006475147617940845
+0.03228726407856795,0.03381336,0.0015260969999328008
+0.032301849365863604,0.03642521,0.004123361169662672
+0.03703147205763164,0.04113094,0.00409946930355725
+0.0368587741175481,0.037957054,0.001098279513996013
+0.023905107699077683,0.03220015,0.008295042492706222
+0.02316605882181901,0.025049793,0.0018837337808392633
+0.022636171086051433,0.02074071,0.0018954608871721915
+0.02533830951077049,0.021493247,0.0038450627319247047
+0.02566854532884382,0.02138854,0.004280005284416903
+0.02590908253871994,0.020991247,0.004917835391398239
+0.024500451054687955,0.01886394,0.0056365104432062885
+0.025040028489060086,0.019866463,0.005173565692133588
+0.022621147164039453,0.018416611,0.004204535686306795
+0.022553848659963252,0.021857385,0.0006964640676685591
+0.020607782147275547,0.022136444,0.0015286620786317782
+0.021177835886373078,0.021869881,0.0006920451922278054
+0.02135038022245673,0.020300506,0.0010498745396306866
+0.01992169140441971,0.017215094,0.002706597806649974
+0.01932039800426904,0.021372875,0.0020524771944528467
+0.019251176337072278,0.020825384,0.001574207847645854
+0.019250376337882742,0.01795887,0.001291506180283293
+0.01866013144527334,0.019536829,0.0008766971769486077
+0.020798908662577748,0.020076176,0.0007227325109444849
+0.020982183320745165,0.021507805,0.0005256218925870117
+0.022558045307254915,0.023810007,0.0012519613708494859
+0.022800972635185365,0.02101179,0.001789182374512796
+0.02280064810768595,0.02084515,0.0019554975326441792
+0.0223420574438089,0.020616803,0.001725254125546801
+0.022394036440105933,0.021293432,0.0011006049196438973
+0.02353119368358722,0.02071479,0.0028164040546046765
+0.023946185100421773,0.0206869,0.0032592848572586645
+0.02345756874771724,0.019423136,0.004034432260114053
+0.012738688593697096,0.010685074,0.0020536144505853907
+0.01273376603286189,0.01209602,0.000637745639788332
+0.016580367344689022,0.017499946,0.0009195787131074558
+0.01573824896898363,0.0230051,0.007266850998138449
+0.016936963710067223,0.022462433,0.005525469493987609
+0.018342168800262685,0.020618076,0.00227590670463634
+0.01856417436278239,0.02160284,0.0030386648687086987
+0.017544716287765785,0.022293152,0.004748435999836639
+0.017769995496725286,0.025171531,0.0074015358675964225
+0.018659050766798527,0.026643557,0.007984506707218616
+0.018604472643745516,0.027851937,0.009247464694964316
+0.02088989152247451,0.031211939,0.010322047186546106
+0.018334649629058467,0.019869395,0.0015347449713329214
+0.018340919187887387,0.017692542,0.0006483774843055769
+0.01625126826781908,0.014871774,0.0013794940264908392
+0.016029591795990453,0.01641904,0.0003894482431912559
+0.01892879486800783,0.019063879,0.00013508393643743566
+0.01890263818812762,0.019833194,0.0009305559037884638
+0.0183386353897183,0.017466685,0.0008719505863516407
+0.017921232652854634,0.015937522,0.001983710599136067
+0.018756789532504276,0.015612121,0.0031446687923886336
+0.017327641422451655,0.0140882535,0.003239387931824843
+0.017115441519334012,0.0131692765,0.003946164991273576
+0.01705828188982031,0.016259039,0.0007992430689575392
+0.018023104553715218,0.0151357725,0.002887332027451027
+0.017753979800572132,0.01430192,0.0034520594909093136
+0.014030928476031481,0.015783725,0.0017527968303602346
+0.014055984241600615,0.011936664,0.0021193205916243615
+0.014401265871239978,0.013152405,0.0012488611829412754
+0.01669896670743371,0.016189488,0.0005094790564432253
+0.015194061932102583,0.014565514,0.0006285475315011956
+0.014766562987850104,0.014622247,0.00014431614129344073
+0.015903189069677696,0.015207382,0.000695807150651321
+0.015787332417032982,0.015780883,6.449507138992644e-06
+0.016466050885434753,0.016761057,0.00029500619340359566
+0.01682531421186938,0.017926928,0.0011016134440659069
+0.016697875147462057,0.019049807,0.0023519313728807695
+0.016560915984206476,0.019415667,0.0028547512963482957
+0.017451423764239856,0.01571177,0.0017396543026080812
+0.014913459059172766,0.012716387,0.0021970716606317924
+0.015212642330080853,0.01690439,0.0016917471556359663
+0.015281236088171429,0.018746952,0.00346571550677734
+0.013632152475855563,0.017207725,0.0035755724977038165
+0.014791108770165852,0.014915238,0.00012412936439711725
+0.012715559427544033,0.011070654,0.0016449056313480488
+0.01704077926008873,0.011068619,0.005972160403718282
+0.016864856211122988,0.01005065,0.006814206456419943
+0.016733202340369985,0.015198922,0.001534280555611417
+0.01657538234366568,0.01763334,0.0010579570464929744
+0.016541046981431346,0.017508866,0.0009678192839847992
+0.015762370966545633,0.017597685,0.0018353136701664413
+0.015727807017955273,0.013823848,0.0019039588002295188
+0.015633476026025998,0.013615413,0.0020180633884346356
+0.013276012156818328,0.014082049,0.000806036862816396
+0.014921059686677157,0.014717834,0.00020322561635225875
+0.014735842631716206,0.014813494,7.765130553774591e-05
+0.015433412747158825,0.017275412,0.0018419988884784584
+0.015320456345190414,0.017313033,0.001992576997171036
+0.015418659292976237,0.017896531,0.002477871856768751
+0.015579086148786765,0.01617309,0.0005940046369550412
+0.015734300540068486,0.012721356,0.003012944535591939
+0.01578683660918755,0.015109926,0.0006769101470140877
+0.01578532079401278,0.012937462,0.002847858836677309
+0.015760486770705746,0.013929552,0.0018309343720837104
+0.01393703351051401,0.015973136,0.0020361023184578535
+0.012496681886432041,0.014492969,0.001996287142219673
+0.014858114774186113,0.010039201,0.004818913767892816
+0.013894494174084199,0.008235942,0.005658552533051503
+0.014113634741917014,0.008201876,0.005911759018018603
+0.014176622092996787,0.009189933,0.004986689485882472
+0.014305430529826394,0.012811467,0.0014939634783203513
+0.015597930553282192,0.015556878,4.105214300244124e-05
+0.015620351048399714,0.017481169,0.0018608176836473669
+0.016091837268575708,0.019687392,0.0035955545489940247
+0.015208077020841034,0.018595178,0.0033871006594129484
+0.011748641857448165,0.019022591,0.007273949554619248
+0.009280312103906958,0.019976001,0.010695689128955514
+0.012845257611489684,0.020831024,0.00798576666274032
+0.014192369280475,0.023794698,0.00960232831714787
+0.014606546783041015,0.017086763,0.0024802161518821565
+0.020269498797871432,0.014505167,0.005764332237459979
+0.021388880282046014,0.017894074,0.003494805961252862
+0.02135016555889953,0.018976657,0.002373508838857303
+0.020870946467877835,0.021045847,0.00017490039670327306
+0.023568122492582635,0.020769713,0.0027984090460847176
+0.02402905005073291,0.025860352,0.0018313023909355998
+0.0279785308048873,0.029248463,0.0012699321850390376
+0.027024225776167414,0.027425371,0.00040114533427188653
+0.025090207038677162,0.024845026,0.00024518060520929696
+0.026421796071192362,0.02906263,0.002640834537485502
+0.024090219262926867,0.02599929,0.0019090716057130787
+0.022619514259343384,0.022997476,0.0003779619011828918
+0.022715136519969016,0.021600697,0.0011144393303995428
+0.02297193468672906,0.022952037,1.9897754618272007e-05
+0.019930405458155248,0.021634324,0.0017039180642932916
+0.018715921794156872,0.018354403,0.00036151893911822927
+0.014564868166463296,0.017762342,0.0031974743014407947
+0.014173631106057648,0.01576528,0.001591648425421234
+0.0142543025526984,0.01506274,0.0008084375199095949
+0.010767647478453955,0.013097594,0.0023299460823609022
+0.01042415272158963,0.009926574,0.0004975784168897331
+0.010594210963953701,0.008777097,0.001817114096392361
+0.010258832041744012,0.010232144,2.6688006345051626e-05
+0.010103620661148565,0.008730618,0.0013730023779959851
+0.01020149603940636,0.010417431,0.0002159346222123503
+0.012125177528760024,0.017129498,0.005004320073821953
+0.010386225858381884,0.020181354,0.009795128276893003
+0.012452673057592064,0.016808845,0.004356172045194954
+0.01234337688364384,0.012727794,0.000384417353791024
+0.012894886042454,0.014315275,0.0014203885016062304
+0.014138709302286554,0.017109467,0.0029707574143605937
+0.0156636091303933,0.021233052,0.005569442884911267
+0.015647986357058326,0.02071275,0.0050647636754858096
+0.01623672252425288,0.01941028,0.0031735579865303162
+0.015363346261433505,0.01752775,0.0021644035005055438
+0.015594545700818368,0.010963668,0.004630877585381337
+0.01566724430085665,0.011831302,0.003835942105069219
+0.013603127775730736,0.014542393,0.000939265610633247
+0.014577305471597125,0.015350901,0.0007735951188226446
+0.013586962643572481,0.0153049175,0.0017179548260482236
+0.01301331431002095,0.012968919,4.4395070082690544e-05
+0.01066135432417931,0.015359148,0.004697794058961254
+0.015201187582002704,0.018567855,0.0033666669565572092
+0.01476950482636508,0.01706909,0.002299585331382189
+0.01989139545820002,0.019635364,0.00025603104493860523
+0.019969910725265987,0.022283293,0.0023133825815615586
+0.022652356668974333,0.023053939,0.0004015818539605809
+0.02299355536893151,0.020754226,0.0022393298168494474
+0.02262509977619446,0.020879088,0.0017460118065336996
+0.022750840473539095,0.021763597,0.0009872437897984788
+0.022540020184816396,0.02040451,0.0021355099847927446
+0.023632667753117502,0.021129716,0.0025029515654019716
+0.02282062900376967,0.01782948,0.004991149354106699
+0.022489625228888525,0.020771952,0.0017176728829212326
+0.01967400169016734,0.02093495,0.0012609488701640047
+0.01755325402487471,0.018537574,0.0009843194914941553
+0.015775466855498386,0.01861471,0.0028392425217904325
+0.02393244269799794,0.023422746,0.0005096967102249973
+0.023872696232232017,0.024542822,0.0006701253389988712
+0.023870366502738095,0.024264961,0.00039459497835626564
+0.02381189417371789,0.02404165,0.00022975664308031926
+0.02271476858028354,0.023361921,0.000647152730141265
+0.022954835369388825,0.02390154,0.0009467054166390834
+0.022995319398415974,0.026082225,0.0030869057454934803
+0.023235862130508277,0.026540816,0.0033049536997224356
+0.023684223062054945,0.02581662,0.0021323963341547715
+0.023268545822755525,0.020561367,0.0027071785494248365
+0.014289149549183113,0.016154505,0.0018653557632596664
+0.014575194270536619,0.016991057,0.002415862231328768
+0.016538970886907672,0.019818818,0.0032798473097466474
+0.026242659932098147,0.024166528,0.0020761317965600455
+0.02946127595628332,0.029004268,0.00045700760806630797
+0.029270371844316377,0.028486706,0.0007836655278452773
+0.02968672101790958,0.02721686,0.002469861856055789
+0.027984166357331985,0.027087636,0.0008965300653512413
+0.02982962979527611,0.031035855,0.0012062256172071066
+0.02985680740231844,0.028664464,0.0011923432713207838
+0.028772133071988473,0.0270008,0.0017713332968648764
+0.028642911370478676,0.028692817,4.990594498057582e-05
+0.026510679458512813,0.027629692,0.0011190126489262278
+0.024585043420998598,0.027520161,0.002935117701085066
+0.022998033437852995,0.02576644,0.0027684062980364403
+0.02398028700378726,0.026359193,0.002378906023232239
+0.023428172353479753,0.024275484,0.000847311210062613
+0.025027090160792666,0.027187945,0.0021608551604096124
+0.025267959125280896,0.02685802,0.00159006144857355
+0.025294404020279555,0.0285646,0.003270196253687234
+0.02532846142955671,0.030987559,0.005659097456852096
+0.027820555563316893,0.02628408,0.0015364755645852803
+0.023277156086982043,0.03037176,0.007094602999865262
+0.022804373989033476,0.026908701,0.0041043272966863956
+0.0218574931924223,0.023852069,0.001994575738442035
+0.022507573214463936,0.02789007,0.005382496195740952
+0.02387887591936656,0.02841721,0.004538333243941584
+0.02171753953780134,0.03214269,0.01042515177641909
+0.020437130840182047,0.02488603,0.0044488998636009885
+0.02051552062137787,0.023582337,0.0030668168027811783
+0.022331158676839324,0.020294743,0.002036416018105003
+0.019511367107703226,0.01871071,0.0008006569994230446
+0.019517991230647305,0.017763939,0.0017540524758503234
+0.023729076054897366,0.027656756,0.003927680286560001
+0.023728586038714524,0.03449548,0.010766894319886092
+0.02251173254208107,0.036116328,0.013604595548348235
+0.02048579752877266,0.044284284,0.023798486586064985
+0.020559003689341823,0.062230084,0.041671080402083116
+0.021561748858045328,0.08722686,0.06566511136715533
+0.20169915419018447,0.13289672,0.06880243282711684
+0.20157317422214382,0.15745209,0.04412108264747494
+0.20030854593484662,0.17559288,0.02471566151349805
+0.20013017657839274,0.18524192,0.014888253842224836
+0.19750252077518882,0.17848355,0.019018974995006932
+0.19799454905558203,0.17442618,0.023568365951066955
+0.19981130559458232,0.16915257,0.030658732843537095
+0.19951642319034926,0.16022061,0.039295815075153034
+0.1986062279376763,0.14804874,0.050557484332062586
+0.1988488460405106,0.12802736,0.07082148142888492
+0.02455033841571562,0.08907022,0.06451988485613115
+0.02093311855346207,0.06521337,0.044280248789486845
+0.021318081635955364,0.045191247,0.02387316538023612
+0.021198268939827555,0.035327576,0.014129307160998708
+0.021088411253583888,0.024925433,0.003837021845685979
+0.021036295184123515,0.020703975,0.00033232007287740603
+0.019051427594544396,0.020099755,0.0010483277820329817
+0.019029566543894386,0.020265488,0.0012359214101261146
+0.01958089499242795,0.024439147,0.004858251749796743
+0.019030848876091126,0.02428736,0.005256510912922736
+0.016532641013597804,0.016163765,0.0003688764921181975
+0.018577822387945923,0.014292613,0.004285209716093811
+0.01797905516149489,0.018205365,0.00022631000457318598
+0.021485653347838307,0.025924303,0.00443864928973875
+0.03676170717275876,0.036428224,0.00033348287738103194
+0.03763561924204182,0.039235897,0.001600278120190389
+0.03792368183707438,0.038603622,0.0006799406292513771
+0.03986652247829382,0.039937858,7.133506016786251e-05
+0.03960317977487573,0.036891162,0.0027120173793984334
+0.04040372316097983,0.04120718,0.0008034562661670824
+0.04091202769490416,0.04786436,0.006952331177271058
+0.047209352774781214,0.047389,0.0001796478794393666
+0.047064504979245886,0.045742154,0.00132235085784696
+0.04379278736758298,0.038508136,0.0052846515421873935
+0.03769126025885954,0.038327854,0.0006365938678322761
+0.03687784964741129,0.035543896,0.0013339533895339387
+0.04066788743752469,0.035936352,0.004731535571994676
+0.03770539359781457,0.037964642,0.0002592484500675077
+0.04007913020450933,0.0406977,0.0006185710708393327
+0.0415068698338765,0.03847349,0.003033379208256609
+0.042057056297475914,0.03553287,0.006524186898882012
+0.030865225454823734,0.030524915,0.0003403103705809131
+0.028761201191741637,0.029630896,0.000869694512289354
+0.02853726081804665,0.027976144,0.0005611167128506504
+0.024510457512760295,0.025840694,0.0013302365720032315
+0.0247893113456032,0.028319038,0.003529727105114726
+0.030644958405386117,0.028265594,0.0023793648319350748
+0.027671026983065315,0.030820524,0.003149497336941056
+0.02761058060168726,0.031030364,0.003419783732896021
+0.02736378983640874,0.029100306,0.0017365164957026183
+0.029612461146679637,0.028254211,0.001358250197735545
+0.0307214714273036,0.027312934,0.003408537028652476
+0.0301390029311532,0.027393932,0.00274507140818777
+0.030104455876697536,0.029104866,0.0009995897892608602
+0.029706956553630152,0.03024431,0.0005373529015261745
+0.03162593251602091,0.030576466,0.0010494668646279723
+0.017674750100339857,0.025929129,0.008254378650818857
+0.018041246958844293,0.025398899,0.007357651910908591
+0.018852367493918762,0.023932813,0.005080445241519585
+0.021498239950241353,0.021711016,0.00021277612358162196
+0.02285922885730457,0.023229111,0.0003698821286897691
+0.020418768845270913,0.022665868,0.0022470987366926265
+0.02021161190229109,0.025592702,0.005381089607303827
+0.02053876712794587,0.028336694,0.007797927336141618
+0.02122903763554264,0.023183865,0.0019548278371317312
+0.011997505720191218,0.013636915,0.0016394092930028664
+0.01712926016261537,0.014297968,0.0028312923859592186
+0.017157909096029062,0.014505349,0.0026525599963929843
+0.017801251874019458,0.015715377,0.002085874468733623
+0.017183986732894486,0.019084256,0.001900269409483367
+0.016681541400492928,0.014831511,0.001850030096710465
+0.016410557120299908,0.016725725,0.0003151674427026782
+0.02110513867229215,0.019192012,0.001913126645386138
+0.020421620096492194,0.01883155,0.001590070884155654
+0.021177131431633255,0.022835882,0.0016587509489714887
+0.022741791566576682,0.023204127,0.000462335760031022
+0.020203035403416864,0.024347158,0.00414412274546791
+0.020630551638679738,0.022623608,0.001993056250138049
+0.019426011213165388,0.023211235,0.0037852239673317814
+0.021536390541813912,0.021032618,0.0005037721830826423
+0.022201819162092004,0.02337446,0.0011726414754774234
+0.02212625707130024,0.022668695,0.0005424380059998318
+0.021411697139886297,0.01732733,0.0040843679960045
+0.021337394356144308,0.02082398,0.0005134146058686957
+0.024642594934456502,0.020382605,0.004259989441387807
+0.02412222650485291,0.021905491,0.0022167353762890286
+0.02406390868535452,0.024212418,0.0001485094387251827
+0.023916579741058572,0.024184085,0.00026750568765617974
+0.024056410195818084,0.022633728,0.0014226825559045253
+0.022417712560999958,0.02212756,0.0002901531524544636
+0.02094981698501562,0.022503365,0.001553547846193562
+0.02157509296495482,0.025264768,0.003689674964956792
+0.01884114247641256,0.024406571,0.005565428464797233
+0.018777347459543334,0.0213962,0.002618851781737222
+0.011352995689909369,0.015451914,0.004098918009598345
+0.01914659628377558,0.019686522,0.0005399256785094605
+0.02076998531718459,0.02436308,0.0035930947224358106
+0.02035607280990809,0.027054356,0.0066982836011913426
+0.01941409518171773,0.028742515,0.009328419368968152
+0.021528019581375235,0.028461399,0.006933378975453264
+0.02036274921787302,0.025208874,0.00484612445640047
+0.020416563797141487,0.024353411,0.003936847251509255
+0.02142823694285682,0.027857581,0.006429344210655181
+0.021295914816651537,0.033639636,0.012343721074070738
+0.022176283323901296,0.03205945,0.0098831663786
+0.021546955003257606,0.023114868,0.001567912505153802
+0.019502449320402484,0.021351745,0.0018492960317465258
+0.024262550463120484,0.023547947,0.0007146030563516849
+0.02611091364053641,0.023575194,0.0025357194605246623
+0.024787380788746788,0.025667997,0.0008806162883606417
+0.02653005361885493,0.029647911,0.003117857348614285
+0.02691277358938215,0.03174316,0.0048303877909088334
+0.030558786914255943,0.031522222,0.0009634349490138631
+0.038431947970609295,0.032399848,0.006032099867086041
+0.036375455602307934,0.033569682,0.0028057732128101767
+0.03609357001444539,0.035177674,0.0009158958699389333
+0.0359864646130663,0.039333947,0.003347482389821424
+0.03137658269649395,0.031990815,0.0006142322575484818
+0.03201586295411635,0.032607287,0.0005914242143864601
+0.027900485710297362,0.03038684,0.0024863552143232666
+0.02970145823906435,0.028759385,0.0009420737112618843
+0.030096653540826156,0.02609463,0.004002023180222823
+0.02914581394670496,0.020991279,0.008154535134415723
+0.01802366172945539,0.02023037,0.0022067079129215114
+0.019242538512414392,0.020398969,0.0011564303182902969
+0.019263805961396877,0.019308366,4.455992004614648e-05
+0.01963427661553936,0.017867982,0.001766294227996637
+0.018701505633339152,0.01843092,0.00027058531557010157
+0.017392747723055768,0.016080003,0.0013127444912919284
+0.0181685781812175,0.014503812,0.003664765763829538
+0.013572446658398272,0.013739543,0.0001670963772281396
+0.01697091599237959,0.015195528,0.0017753879470829223
+0.01437716661284958,0.016489033,0.0021118660431047806
+0.015584143744089347,0.015600159,1.601508887793396e-05
+0.015066599771704558,0.015020063,4.6536624755743466e-05
+0.017823796734054525,0.016097732,0.001726064845760305
+0.019871596982178247,0.019227756,0.0006438407948584912
+0.02067685755611454,0.020023752,0.0006531055522063824
+0.023181193287095964,0.020388959,0.0027922343114232424
+0.022952746560394626,0.018625008,0.00432773861807571
+0.02295316440503003,0.019926075,0.0030270895127475425
+0.019702466200356608,0.019841941,0.00013947487318026475
+0.018859728982381318,0.01901103,0.0001513009912448189
+0.018934132940783787,0.02201905,0.0030849162119481084
+0.018622955338845004,0.02252111,0.003898154912700902
+0.01681962879487198,0.01928169,0.0024620602827437575
+0.02166251103137348,0.018368134,0.0032943767562947056
+0.020624057272180404,0.017921671,0.0027023860008562467
+0.017373899329518796,0.019859632,0.0024857331476454726
+0.01871494395757278,0.02352813,0.004813186767453351
+0.018469876502037987,0.02000199,0.0015321142185917049
+0.017737347998926123,0.018973479,0.0012361310484915178
+0.017565223706481014,0.018583229,0.001018005105140652
+0.01829462566167637,0.017759314,0.000535311854784927
+0.018717888607561094,0.019568536,0.0008506478230362116
+0.01986263196173977,0.021874582,0.0020119504332177726
+0.015227970470063664,0.019708805,0.004480834316141628
+0.016238776009836933,0.021859128,0.00562035201831744
+0.015666890106568056,0.017938288,0.0022713978221323913
+0.014824452611859286,0.013893814,0.000930638785715544
+0.01549670971370806,0.015760303,0.0002635928299320762
+0.016168571589333644,0.0179857,0.0018171281089953278
+0.016162704189993323,0.018755797,0.0025930931067691433
+0.0176663201339972,0.017737897,7.157697896838233e-05
+0.019753122846230237,0.018142171,0.0016109516421401182
+0.021267946790188907,0.017390464,0.0038774832889739257
+0.02177868452605199,0.019855566,0.0019231182032484924
+0.022873019890645937,0.024108145,0.0012351254953346692
+0.02758308459144095,0.02770173,0.00011864531714459933
+0.02768874499720239,0.027059792,0.0006289533875575015
+0.027292434364630195,0.02833235,0.0010399164109692847
+0.030827038242258315,0.028932836,0.0018942023355143119
+0.032005438787666415,0.028806964,0.0031984748521719925
+0.031012177673581325,0.028363155,0.0026490224725038633
+0.03107207220177809,0.029160388,0.0019116843877331376
+0.031321055684636945,0.027996866,0.0033241896521557512
+0.030563278817006278,0.029417085,0.0011461942870103596
+0.028237791526748247,0.029676046,0.0014382546957001016
+0.025137856439407434,0.028606746,0.003468889906351004
+0.02285420381728713,0.027445845,0.004591641488632517
+0.025997125031674194,0.022042029,0.003955096425736236
+0.01855462148862976,0.022222426,0.0036678043000112175
+0.01802104313895026,0.022099828,0.004078785208613482
+0.01791225141335514,0.02003382,0.002121568187584612
+0.016864389067401255,0.016487613,0.0003767757470506082
+0.01213810465013664,0.014161483,0.002023378734532188
+0.013391796838359737,0.013819228,0.00042743108807334965
+0.013272805123024834,0.012969241,0.0003035645767983323
+0.012766175941165575,0.013844029,0.0010778531054295212
+0.012698245567880182,0.01410481,0.0014065640441555689
+0.008196004691037135,0.013621259,0.005425253858355088
+0.00867392664196968,0.010894521,0.0022205944975924492
+0.010456038424673277,0.011057894,0.0006018553209279007
+0.013581103516631499,0.012303321,0.0012777828256420043
+0.013497873494561337,0.014056827,0.0005589534471076504
+0.013479645174442313,0.014231286,0.000751640837193944
+0.012355591361411821,0.014483568,0.0021279768971717242
+0.01238410206011089,0.01448379,0.0020996878532454147
+0.012614018376243628,0.0125413,7.271869040778936e-05
+0.012362233869493177,0.013085335,0.0007231006922720166
+0.013540051626924338,0.012454103,0.001085948879782023
+0.013343155028552456,0.012145155,0.001197999919087334
+0.01384551974918483,0.013039735,0.0008057846033179585
+0.011845707074521707,0.014313428,0.002467720656873061
+0.013783591426001501,0.01526455,0.0014809587979450704
+0.013873251236222562,0.015265976,0.0013927248425857457
+0.014130293276350516,0.015388651,0.0012583575433087173
+0.014411735139340777,0.01624488,0.0018331457157426886
+0.015294518732696378,0.015305811,1.1291875273383364e-05
+0.015401557106105891,0.015296729,0.00010482782456120582
+0.018384234117385476,0.016299604,0.0020846306104627538
+0.018772322954476128,0.016393498,0.0023788253682258224
+0.016795890717463475,0.015257221,0.0015386700021791273
+0.01649885747805863,0.015657496,0.0008413617707851463
+0.016304217674107887,0.016001716,0.0003025014179662243
+0.018029693000262862,0.017038194,0.0009914985376058873
+0.017859010035071763,0.018554889,0.0006958786306043539
+0.0182250310346086,0.018479347,0.00025431619439530637
+0.018299865256771384,0.018325789,2.5923643484773023e-05
+0.01703975640221535,0.017149678,0.00010992109791339508
+0.01770851515051974,0.01774257,3.405533912526418e-05
+0.017807391353918657,0.018210663,0.00040327117495383286
+0.017754997636203234,0.018824264,0.001069266770954664
+0.01819912832204599,0.01966874,0.0014696109669993448
+0.01619820842040833,0.017927876,0.0017296673219079177
