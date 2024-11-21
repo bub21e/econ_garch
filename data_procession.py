@@ -6,55 +6,6 @@ import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
 
-def load_market_value_data(mv_path):
-    """
-    加载市值数据文件
-    """
-    print("\n开始加载市值数据文件...")
-    
-    # 获取所有市值数据文件
-    mv_files = glob.glob(os.path.join(mv_path, "*.xls"))
-    
-    if not mv_files:
-        raise FileNotFoundError(f"在 {mv_path} 目录下没有找到市值数据文件")
-    
-    print(f"找到 {len(mv_files)} 个市值数据文件")
-    
-    mv_list = []
-    for file in tqdm(mv_files, desc="读取市值文件"):
-        try:
-            df = pd.read_excel(file, engine='xlrd')
-            
-            # 验证市值数据必要的列
-            required_columns = [
-                '股票代码_Stkcd', '日期_Date', 
-                '日总市值(元)_Dmc', '日流通市值(元)_Dtmv',
-                '日总市值–人民币计价(元)_DmcCNY', 
-                '日流通市值–人民币计价(元)_DtmvCNY'
-            ]
-            
-            missing_columns = [col for col in required_columns if col not in df.columns]
-            if missing_columns:
-                print(f"警告: 市值文件 {os.path.basename(file)} 缺少列: {missing_columns}")
-                continue
-            
-            print(f"\n成功读取市值文件: {os.path.basename(file)}")
-            print(f"数据形状: {df.shape}")
-            mv_list.append(df)
-            
-        except Exception as e:
-            print(f"\n错误: 读取市值文件 {os.path.basename(file)} 时出错:")
-            print(f"错误信息: {str(e)}")
-            continue
-    
-    if not mv_list:
-        raise ValueError("没有成功读取任何市值数据文件")
-    
-    print("\n合并市值数据文件...")
-    mv_combined = pd.concat(mv_list, ignore_index=True)
-    
-    return mv_combined
-
 def load_price_data(price_path):
     """
     加载价格数据文件
@@ -103,35 +54,13 @@ def load_price_data(price_path):
     
     return price_combined
 
-def merge_price_and_mv_data(price_df, mv_df):
+def process_price_data(df):
     """
-    合并价格和市值数据
+    处理价格数据
     """
-    print("\n合并价格和市值数据...")
+    print("\n处理价格数据...")
     
-    # 确保日期格式一致
-    price_df['日期_Date'] = pd.to_datetime(price_df['日期_Date'])
-    mv_df['日期_Date'] = pd.to_datetime(mv_df['日期_Date'])
-    
-    # 按股票代码和日期合并
-    merged_df = pd.merge(
-        price_df, 
-        mv_df[['股票代码_Stkcd', '日期_Date', '日总市值(元)_Dmc', 
-               '日流通市值(元)_Dtmv', '日总市值–人民币计价(元)_DmcCNY', 
-               '日流通市值–人民币计价(元)_DtmvCNY']], 
-        on=['股票代码_Stkcd', '日期_Date'],
-        how='inner'
-    )
-    
-    print(f"合并后的数据形状: {merged_df.shape}")
-    
-    return merged_df
-
-def process_merged_data(df):
-    """
-    处理合并后的数据
-    """
-    print("\n处理合并后的数据...")
+    df['日期_Date'] = pd.to_datetime(df['日期_Date'], format='%Y%m%d')
     
     # 按股票代码和日期排序
     df = df.sort_values(['股票代码_Stkcd', '日期_Date'])
@@ -148,9 +77,7 @@ def process_merged_data(df):
         (df['开盘价_Oppr'] > 0) & 
         (df['最高价_Hipr'] > 0) & 
         (df['最低价_Lopr'] > 0) & 
-        (df['成交量_Trdvol'] >= 0) &
-        (df['日总市值(元)_Dmc'] > 0) &
-        (df['日流通市值(元)_Dtmv'] > 0)
+        (df['成交量_Trdvol'] >= 0)
     )
     
     invalid_count = (~df['数据有效']).sum()
@@ -160,9 +87,9 @@ def process_merged_data(df):
     
     return df
 
-def analyze_merged_data_quality(df):
+def analyze_data_quality(df):
     """
-    分析合并后的数据质量
+    分析数据质量
     """
     print("\n数据质量分析:")
     
@@ -191,27 +118,19 @@ def main():
     try:
         # 设置数据路径
         price_path = r"C:\Users\Administrator\Desktop\data_1\dtk"
-        mv_path = r"C:\Users\Administrator\Desktop\data_1\dmv"  # 市值数据路径
         
         # 加载价格数据
         price_df = load_price_data(price_path)
         
-        # 加载市值数据
-        mv_df = load_market_value_data(mv_path)
-        
-        # 合并价格和市值数据
-        merged_df = merge_price_and_mv_data(price_df, mv_df)
-        
-        # 处理合并后的数据
-        processed_df = process_merged_data(merged_df)
+        # 处理价格数据
+        processed_df = process_price_data(price_df)
         
         # 分析数据质量
-        trading_days = analyze_merged_data_quality(processed_df)
+        trading_days = analyze_data_quality(processed_df)
         
         # 保存处理后的数据
         print("\n保存处理后的数据...")
         processed_df.to_csv('processed_stock_data.csv', index=False)
-        trading_days.to_csv('trading_days_statistics.csv')
         
         print("\n数据处理完成！")
         
