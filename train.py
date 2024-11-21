@@ -8,7 +8,7 @@ from features import *
 import ta
 import pandas as pd
 
-def process(input_path, output_path):
+def process(input_path, output_path, predict_path):
     df = load_and_preprocess_data(input_path)
 
     # Calculate Technical Indicators
@@ -62,9 +62,9 @@ def process(input_path, output_path):
     # Train LSTM model
     lstm = create_lstm_model((X_train.shape[1], X_train.shape[2]))
     hist = train_lstm_model(lstm, X_train, y_train)
-    plot_training_history(hist)
+    # plot_training_history(hist)
 
     # Evaluate model
     evaluate_model(lstm, X_test, y_test)
-    print_predictions(lstm, X_test, y_test)
+    print_predictions(lstm, X_test, y_test, predict_path)
 

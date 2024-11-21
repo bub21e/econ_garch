@@ -9,9 +9,9 @@ if __name__ == '__main__':
         if filename.endswith('.csv'):  # Only process CSV files
             input_path = os.path.join(input_dir, filename)
             output_path = os.path.join(output_dir, filename)
+            predict_path = os.path.join(output_dir, filename + '.txt')
             print(f"\nProcessing file: {input_path}\n")
             try:
-                process(input_path, output_path)
+                process(input_path, output_path, predict_path)
             except ValueError as e:
                 print(f"Skipping {filename} due to ValueError: {e}")
-    # process(r'stock_data/stock_2116_data.csv')

@@ -39,6 +39,20 @@ def evaluate_model(model, X_test, y_test):
     print('\nMean Squared Error:\n')
     print(mean_squared_error(y_test, y_pred))
 
-def print_predictions(model, X_test, y_test):
-    for ind, i in enumerate(model.predict(X_test)):
-        print(f'Prediction: {round(100 * i[0], 2):.2f},    Actual Value: {round(100 * y_test[ind][0], 2):.2f}')
+def print_predictions(model, X_test, y_test, file_path, scale=100):
+    """
+    Writes predictions and actual values to a file.
+
+    Parameters:
+        model: The trained model to use for predictions.
+        X_test: Test data features.
+        y_test: Test data labels.
+        file_path: Path to the output file.
+        scale: Scaling factor for the predictions and actual values (default is 100).
+    """
+    predictions = model.predict(X_test)
+    with open(file_path, 'w') as f:
+        for ind, pred in enumerate(predictions):
+            actual = y_test[ind]
+            f.write(f'Prediction: {round(scale * pred[0], 2):.2f},    Actual Value: {round(scale * actual[0], 2):.2f}\n')
+
