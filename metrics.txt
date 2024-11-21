@@ -1,0 +1,112 @@
+Metrics for stock_2116_data.csv.txt:
+  Mean Squared Error (MSE): 0.3465
+  Mean Absolute Error (MAE): 0.3153
+----------------------------------------
+Metrics for stock_2178_data.csv.txt:
+  Mean Squared Error (MSE): 1.0300
+  Mean Absolute Error (MAE): 0.4561
+----------------------------------------
+Metrics for stock_2398_data.csv.txt:
+  Mean Squared Error (MSE): 0.5866
+  Mean Absolute Error (MAE): 0.4995
+----------------------------------------
+Metrics for stock_2469_data.csv.txt:
+  Mean Squared Error (MSE): 1.7610
+  Mean Absolute Error (MAE): 0.6932
+----------------------------------------
+Metrics for stock_2776_data.csv.txt:
+  Mean Squared Error (MSE): 2.8810
+  Mean Absolute Error (MAE): 0.9104
+----------------------------------------
+Metrics for stock_2883_data.csv.txt:
+  Mean Squared Error (MSE): 13.9812
+  Mean Absolute Error (MAE): 3.0365
+----------------------------------------
+Metrics for stock_300008_data.csv.txt:
+  Mean Squared Error (MSE): 0.3602
+  Mean Absolute Error (MAE): 0.4289
+----------------------------------------
+Metrics for stock_300012_data.csv.txt:
+  Mean Squared Error (MSE): 0.3958
+  Mean Absolute Error (MAE): 0.3763
+----------------------------------------
+Metrics for stock_300125_data.csv.txt:
+  Mean Squared Error (MSE): 0.3682
+  Mean Absolute Error (MAE): 0.4137
+----------------------------------------
+Metrics for stock_300215_data.csv.txt:
+  Mean Squared Error (MSE): 1.6378
+  Mean Absolute Error (MAE): 0.5521
+----------------------------------------
+Metrics for stock_300284_data.csv.txt:
+  Mean Squared Error (MSE): 0.6622
+  Mean Absolute Error (MAE): 0.4111
+----------------------------------------
+Metrics for stock_300384_data.csv.txt:
+  Mean Squared Error (MSE): 3.9685
+  Mean Absolute Error (MAE): 0.7284
+----------------------------------------
+Metrics for stock_300404_data.csv.txt:
+  Mean Squared Error (MSE): 0.5401
+  Mean Absolute Error (MAE): 0.5011
+----------------------------------------
+Metrics for stock_300492_data.csv.txt:
+  Mean Squared Error (MSE): 2.1238
+  Mean Absolute Error (MAE): 0.9372
+----------------------------------------
+Metrics for stock_300500_data.csv.txt:
+  Mean Squared Error (MSE): 1.8003
+  Mean Absolute Error (MAE): 0.6377
+----------------------------------------
+Metrics for stock_300635_data.csv.txt:
+  Mean Squared Error (MSE): 2.4409
+  Mean Absolute Error (MAE): 0.9948
+----------------------------------------
+Metrics for stock_300668_data.csv.txt:
+  Mean Squared Error (MSE): 6.4142
+  Mean Absolute Error (MAE): 1.1181
+----------------------------------------
+Metrics for stock_600629_data.csv.txt:
+  Mean Squared Error (MSE): 0.2586
+  Mean Absolute Error (MAE): 0.3814
+----------------------------------------
+Metrics for stock_600645_data.csv.txt:
+  Mean Squared Error (MSE): 0.3617
+  Mean Absolute Error (MAE): 0.3774
+----------------------------------------
+Metrics for stock_600721_data.csv.txt:
+  Mean Squared Error (MSE): 0.6122
+  Mean Absolute Error (MAE): 0.5798
+----------------------------------------
+Metrics for stock_601226_data.csv.txt:
+  Mean Squared Error (MSE): 0.3398
+  Mean Absolute Error (MAE): 0.3796
+----------------------------------------
+Metrics for stock_603017_data.csv.txt:
+  Mean Squared Error (MSE): 1.3370
+  Mean Absolute Error (MAE): 0.5261
+----------------------------------------
+Metrics for stock_603018_data.csv.txt:
+  Mean Squared Error (MSE): 0.7157
+  Mean Absolute Error (MAE): 0.4403
+----------------------------------------
+Metrics for stock_603060_data.csv.txt:
+  Mean Squared Error (MSE): 0.9751
+  Mean Absolute Error (MAE): 0.7083
+----------------------------------------
+Metrics for stock_603126_data.csv.txt:
+  Mean Squared Error (MSE): 0.2705
+  Mean Absolute Error (MAE): 0.3690
+----------------------------------------
+Metrics for stock_603698_data.csv.txt:
+  Mean Squared Error (MSE): 0.2713
+  Mean Absolute Error (MAE): 0.3433
+----------------------------------------
+Metrics for stock_603859_data.csv.txt:
+  Mean Squared Error (MSE): 0.9962
+  Mean Absolute Error (MAE): 0.7275
+----------------------------------------
+Metrics for stock_603909_data.csv.txt:
+  Mean Squared Error (MSE): 0.8116
+  Mean Absolute Error (MAE): 0.6904
+----------------------------------------
