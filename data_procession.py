@@ -60,7 +60,7 @@ def process_price_data(df):
     """
     print("\n处理价格数据...")
     
-    df['日期_Date'] = pd.to_datetime(df['日期_Date'], format='%Y%m%d')
+    df['日期_Date'] = pd.to_datetime(df['日期_Date'])
     
     # 按股票代码和日期排序
     df = df.sort_values(['股票代码_Stkcd', '日期_Date'])
@@ -114,6 +114,29 @@ def analyze_data_quality(df):
     
     return trading_days
 
+def save_by_stock(df, output_dir='stock_data'):
+    """
+    按股票代码分别保存数据
+    """
+    print("\n按股票代码分别保存数据...")
+    
+    # 创建输出目录
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    # 获取所有股票代码
+    stock_codes = df['股票代码_Stkcd'].unique()
+    print(f"共有{len(stock_codes)}只股票")
+    
+    # 为每个股票保存数据
+    for stock_code in tqdm(stock_codes, desc="保存股票数据"):
+        stock_df = df[df['股票代码_Stkcd'] == stock_code].copy()
+        stock_df = stock_df.sort_values('日期_Date')
+        output_file = os.path.join(output_dir, f'stock_{stock_code}_data.csv')
+        stock_df.to_csv(output_file, index=False)
+    
+    print(f"\n所有股票数据已保存到 {output_dir} 目录")
+
 def main():
     try:
         # 设置数据路径
@@ -128,8 +151,10 @@ def main():
         # 分析数据质量
         trading_days = analyze_data_quality(processed_df)
         
-        # 保存处理后的数据
-        print("\n保存处理后的数据...")
+        # 按股票代码分别保存数据
+        save_by_stock(processed_df)
+        
+        # 同时保存完整数据集
         processed_df.to_csv('processed_stock_data.csv', index=False)
         
         print("\n数据处理完成！")
