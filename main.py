@@ -1,14 +1,17 @@
 import os
 from train import process  
 
-data_directory = 'stock_data/'
+input_dir = 'stock_data/'
+output_dir = 'output_data/'
 
 if __name__ == '__main__':
-    for filename in os.listdir(data_directory):
+    for filename in os.listdir(input_dir):
         if filename.endswith('.csv'):  # Only process CSV files
-            input_path = os.path.join(data_directory, filename)
+            input_path = os.path.join(input_dir, filename)
+            output_path = os.path.join(output_dir, filename)
             print(f"\nProcessing file: {input_path}\n")
             try:
-                process(input_path)
+                process(input_path, output_path)
             except ValueError as e:
                 print(f"Skipping {filename} due to ValueError: {e}")
+    # process(r'stock_data/stock_2116_data.csv')
